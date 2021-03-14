@@ -12,6 +12,15 @@ has_children: true
 * [Openbox](http://openbox.org/wiki/Main_Page) ([GitHub](https://github.com/danakj/openbox))
 
 
+## Project
+
+* [note-ubuntu-20.04/explore/openbox/obconf/prototype/theme](https://github.com/samwhelp/note-ubuntu-20.04/tree/gh-pages/demo/explore/openbox/obconf/prototype/theme)
+
+
+## Install Script
+
+* [play-ubuntu-20.04-plan/prototype/openbox](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/openbox)
+
 
 ## Just the Docs
 
