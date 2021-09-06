@@ -11,7 +11,9 @@
 | --- | --- |
 | /usr/share/xsessions/openbox-session.desktop | Be Openbox |
 | /usr/local/bin/openbox-session.sh | --- |
+| /usr/bin/openbox-session | --- |
 | /usr/bin/openbox | --- |
+
 
 ### Up
 
