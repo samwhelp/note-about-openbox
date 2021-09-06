@@ -1,6 +1,14 @@
 
 # Openbox / Config / Main
 
+## Doc
+
+| Spec |
+| --- |
+| [xsession](config/openbox/share/doc/spec-xsession.md) |
+| [keybind](config/openbox/share/doc/spec-keybind.md) |
+| [mousebind](config/openbox/share/doc/spec-mousebind.md) |
+
 
 ## Config File Path
 
@@ -14,12 +22,3 @@
 ## Link
 
 * [openbox](http://openbox.org/)
-
-
-
-## Doc
-
-| Subject |
-| --- |
-| [keybind](config/openbox/share/doc/spec-keybind.md) |
-| [xsession](config/openbox/share/doc/spec-xsession.md) |
