@@ -5,12 +5,13 @@
 			<direction>both</direction>
 		</action>
 	</keybind>
-
+<!--
 	<keybind key="W-m">
 		<action name="ToggleMaximize">
 			<direction>both</direction>
 		</action>
 	</keybind>
+//-->
 
 <?php
 /*
