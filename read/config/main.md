@@ -20,4 +20,9 @@ parent: 設定
 
 ## 按鍵綁定
 
-請參考「[使用情境(客製)](https://samwhelp.github.io/note-about-openbox/read/scenario.html)」該篇的整理
+中文版請參考「[使用情境(客製)](https://samwhelp.github.io/note-about-openbox/read/scenario.html)」該篇的整理
+
+另外有英文版如下
+
+* [Keybind](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/doc/spec-keybind.md)
+* [Mousebind](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/doc/spec-mousebind.md)
