@@ -50,8 +50,9 @@ has_children: true
 
 | 主題 |
 | --- |
+| [視窗相關操作](scenario/main/window-control) |
 | [視窗移動操作](scenario/main/window-movement-control) |
-| [視窗其他操作](scenario/main/window-control) |
+
 
 
 ## 音量控制

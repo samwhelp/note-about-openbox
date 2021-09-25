@@ -1,5 +1,5 @@
 ---
-title: 視窗其他操作
+title: 視窗相關操作
 nav_order: 5040
 has_children: false
 parent: 使用情境(客製)
@@ -11,6 +11,8 @@ parent: 使用情境(客製)
 
 ## 關閉視窗
 
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowClose.php)
+
 | 按鍵組合 | 功能 |
 | --- | --- |
 | `Win + q` | 將目前聚焦的視窗關閉 |
@@ -18,36 +20,54 @@ parent: 使用情境(客製)
 
 ## 全螢幕
 
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleFullscreen.php)
+
 | 按鍵組合 | 功能 |
 | --- | --- |
 | `Win + f` | 將目前聚焦的視窗，切換成全螢幕 |
 
 
-## 在浮動模式和平鋪模式之間切換
+## 最大化
+
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleMaximize.php)
 
 | 按鍵組合 | 功能 |
 | --- | --- |
-| `Win + n` | 將目前Tag所有的視窗，在浮動模式和平鋪模式之間切換 |
-| `Win + Shift + n` | 將目前聚焦的視窗，在浮動模式和平鋪模式之間切換 |
+| `Win + w` | 將目前聚焦的視窗，切換成最大化 |
 
 
-### 最小化
+## 最小化
 
-| Key | Description |
-| --- | --- |
-| `Win + b` | 將目前聚焦的視窗最小化 |
-| `Win + v` | 將最近一個最小化的視窗，從最小化恢復顯示 |
-
-
-## Pseudo Tile
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowIconify.php)
 
 | 按鍵組合 | 功能 |
 | --- | --- |
-| `Win + p` | 將目前聚焦的視窗，切換 「Pseudo Tile」模式 |
+| `Win + x` | 將目前聚焦的視窗，切換成最小化 |
+| `Win + n` | 將目前聚焦的視窗，切換成最小化 |
 
 
-## 視窗標題顯示
+## 移動到畫面中間區域
 
-| 按鍵組合 | 功能 | 指令 | 程式
-| --- | --- | --- | --- |
-| `Win + t` | 反覆按，可以切換「Window Title」顯示或隱藏。 | `hlwm-window-ctrl toggle` | [hlwm-window-ctrl](https://github.com/samwhelp/note-about-herbstluftwm/blob/gh-pages/_demo/config/herbstluftwm-config/main/config/herbstluftwm/bin/hlwm-window-ctrl) |
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowMoveToCenter.php)
+
+| 按鍵組合 | 功能 |
+| --- | --- |
+| `Win + m` | 將目前聚焦的視窗， 移動到畫面中間區域 |
+
+
+## 視窗標題顯示或隱藏
+
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleDecorations.php)
+
+| 按鍵組合 | 功能 |
+| --- | --- |
+| `Win + v` | 反覆按，可以切換「Window Title」顯示或隱藏。 |
+
+
+## 視窗內容顯示或隱藏
+
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleShade.php)
+
+| 按鍵組合 | 功能 |
+| --- | --- |
+| `Win + y` | 反覆按，可以切換「Window Content」顯示或隱藏。 |

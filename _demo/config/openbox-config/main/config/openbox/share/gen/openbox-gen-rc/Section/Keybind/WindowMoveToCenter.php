@@ -8,7 +8,6 @@
 		</action>
 		<action name="MoveToCenter"/>
 	</keybind>
-
 <?php
 /*
 
