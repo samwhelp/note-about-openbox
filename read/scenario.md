@@ -18,7 +18,7 @@ has_children: true
 
 * [系統操作](#系統操作)
 * [開啟應用程式](#開啟應用程式)
-* [Layout操作](#layout操作)
+* [Workspace操作](#workspace操作)
 * [視窗操作](#視窗操作)
 * [音量控制](#音量控制)
 * [桌面圖片](#桌面圖片)
@@ -36,16 +36,14 @@ has_children: true
 | --- |
 | [開啟 Terminal](scenario/main/launch-terminal) |
 | [開啟 Rofi](scenario/main/launch-rofi) |
-| [開啟 Dmenu](scenario/main/launch-dmenu) |
 | [開啟常用的應用程式](scenario/main/launch-favorite-app) |
 
 
-## Layout操作
+## Workspace操作
 
 | 主題 |
 | --- |
-| [Layout操作](scenario/main/layout-control) |
-| [tag操作](scenario/main/tag-control) |
+| [Workspace操作](scenario/main/workspace-control) |
 
 
 ## 視窗操作

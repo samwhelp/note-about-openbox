@@ -11,6 +11,7 @@
 ## 主題
 
 * [設定範例](#設定範例)
+* [使用情境](#使用情境)
 * [專案](#專案)
 * [輔助工具](#輔助工具)
 
@@ -20,6 +21,13 @@
 | 設定範例 | 備註 |
 | --- | --- |
 | [main](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main) | 我的設定架構 |
+
+
+### 使用情境
+
+| 使用情境 |
+| --- |
+| [客製](https://samwhelp.github.io/note-about-openbox/read/scenario.html) |
 
 
 ### 專案
