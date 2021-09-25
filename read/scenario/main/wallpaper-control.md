@@ -10,6 +10,8 @@ parent: 使用情境(客製)
 
 ## 桌面圖片切換
 
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/Wallpaper.php)
+
 | 按鍵組合 | 功能 | 指令 | 程式
 | --- | --- | --- | --- |
 | `Alt + w` | 桌面圖片隨機選取切換 | `openbox-wallpaper-ctrl shuf` | [openbox-wallpaper-ctrl](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/bin/openbox-wallpaper-ctrl) |

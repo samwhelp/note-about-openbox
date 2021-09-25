@@ -20,6 +20,8 @@ parent: 使用情境(客製)
 
 ## 切換 Workspace
 
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/GoToDesktop.php)
+
 | 按鍵組合 | 功能 |
 | --- | --- |
 | `Alt + 1` | 切換到 Workspace 1 |
@@ -30,6 +32,8 @@ parent: 使用情境(客製)
 
 
 ## 將 Window 移動到 指定 Workspace
+
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/SendToDesktop.php#L125)
 
 | 按鍵組合 | 功能 |
 | --- | --- |

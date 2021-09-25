@@ -8,6 +8,7 @@ parent: 使用情境(客製)
 
 # 音量控制
 
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/Volume.php)
 
 | 按鍵組合 | 功能 |
 | --- | --- |

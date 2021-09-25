@@ -8,6 +8,7 @@ parent: 使用情境(客製)
 
 # 系統操作
 
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/Openbox.php)
 
 | 按鍵組合 | 功能 |
 | --- | --- |

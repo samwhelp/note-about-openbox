@@ -8,6 +8,8 @@ parent: 使用情境(客製)
 
 # 開啟應用程式 (常用的)
 
+* [config sample](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/LaunchApp.php#L83)
+
 | 按鍵組合 | 功能 |
 | --- | --- |
 | `Alt + Shift + f` | 開啟檔案管理器 (pcmanfm-qt) |
