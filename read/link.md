@@ -40,6 +40,14 @@ has_children: true
 * [Ubuntu 20.04 探索筆記](https://samwhelp.github.io/note-ubuntu-20.04/)
 * [Ubuntu 18.04 探索筆記](https://samwhelp.github.io/note-ubuntu-18.04/)
 * [xsession簡易入門](https://samwhelp.github.io/note-about-xsession/)
+* [archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/)
+
+
+## Other
+
+* [https://wiki.archlinux.org/title/openbox](https://wiki.archlinux.org/title/openbox)
+* [https://wiki.debian.org/Openbox](https://wiki.debian.org/Openbox)
+* [https://help.ubuntu.com/community/Openbox](https://help.ubuntu.com/community/Openbox)
 
 
 ## Just the Docs
