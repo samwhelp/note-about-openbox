@@ -1006,12 +1006,13 @@ h l
 			<direction>both</direction>
 		</action>
 	</keybind>
-
+<!--
 	<keybind key="W-m">
 		<action name="ToggleMaximize">
 			<direction>both</direction>
 		</action>
 	</keybind>
+//-->
 
 
 	<keybind key="W-f">
@@ -1633,7 +1634,7 @@ h l
 
 
 
-	<keybind key="W-b">
+	<keybind key="W-m">
 		<action name="UnmaximizeFull"/>
 		<action name="MoveResizeTo">
 			<width>60%</width>
