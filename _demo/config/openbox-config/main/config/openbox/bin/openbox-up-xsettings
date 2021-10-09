@@ -49,11 +49,30 @@ app_xsettingsd_start () {
 
 
 ################################################################################
+### Head: Xsettings / xfsettingsd
+##
+
+app_xfsettingsd_start () {
+
+	util_stop_all 'xfsettingsd'
+
+	is_command_exist 'xfsettingsd' && xfsettingsd &
+
+}
+
+
+##
+### Tail: Compositor / xfsettingsd
+################################################################################
+
+
+################################################################################
 ### Head: Main
 ##
 
 __main__ () {
-	app_xsettingsd_start
+	#app_xsettingsd_start
+	app_xfsettingsd_start
 }
 
 __main__
