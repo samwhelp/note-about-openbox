@@ -54,8 +54,12 @@ has_children: true
 
 * [https://github.com/reorr/my-theme-collection](https://github.com/reorr/my-theme-collection) ([dotfiles](https://github.com/reorr/dotfiles))
 * [https://github.com/addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections)
-* [https://github.com/addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections)
 * [https://github.com/addy-dclxvi/gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections)
+* [https://github.com/addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections)
+* [https://github.com/wotalim/my-tint2](https://github.com/wotalim/my-tint2)
+* [https://github.com/madmaxms/theme-obsidian-2/tree/gray](https://github.com/madmaxms/theme-obsidian-2/tree/gray)
+* [https://github.com/WernerFP/Shades-of-gray-theme/tree/master/Shades-of-gray](https://github.com/WernerFP/Shades-of-gray-theme/tree/master/Shades-of-gray)
+* [https://github.com/rtlewis88/rtl88-Themes/tree/Nord-Black-Frost/Black-Frost-Suru](https://github.com/rtlewis88/rtl88-Themes/tree/Nord-Black-Frost/Black-Frost-Suru)
 * [https://github.com/samwhelp/note-about-manjaro/tree/gh-pages/_demo/project/style-xfce/style-theme](https://github.com/samwhelp/note-about-manjaro/tree/gh-pages/_demo/project/style-xfce/style-theme)
 * [https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/project/style-xfce/style-theme](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/project/style-xfce/style-theme)
 
