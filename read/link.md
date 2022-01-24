@@ -50,6 +50,23 @@ has_children: true
 * [https://help.ubuntu.com/community/Openbox](https://help.ubuntu.com/community/Openbox)
 
 
+## Theme
+
+* [https://github.com/reorr/my-theme-collection](https://github.com/reorr/my-theme-collection) ([dotfiles](https://github.com/reorr/dotfiles))
+* [https://github.com/addy-dclxvi/openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections)
+* [https://github.com/addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections)
+* [https://github.com/addy-dclxvi/gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections)
+* [https://github.com/samwhelp/note-about-manjaro/tree/gh-pages/_demo/project/style-xfce/style-theme](https://github.com/samwhelp/note-about-manjaro/tree/gh-pages/_demo/project/style-xfce/style-theme)
+* [https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/project/style-xfce/style-theme](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/project/style-xfce/style-theme)
+
+
+## Howto
+
+* [Openbox / Pseudo Tiling - Default Settings and Bash Scripting](https://muktazam.me/blog/Openbox-Pseudo-Tiling-Default-Settings-and-Bash-Scripting) ([md_01](https://github.com/reorr/muktazam.me/blob/master/src/routes/blog/posts/Openbox-Pseudo-Tiling-Default-Settings-and-Bash-Scripting.md)) ([md_02](https://github.com/reorr/my-hexo-blog/blob/master/source/_posts/Openbox-Pseudo-Tiling-Default-Settings-and-Bash-Scripting.md))
+* [Tiling windows horizontally and vertically under Lubuntu (LXDE/Openbox)?](https://askubuntu.com/questions/516303/tiling-windows-horizontally-and-vertically-under-lubuntu-lxde-openbox)
+* [Treating OpenBox like a Tiling WindowManager](https://thomashunter.name/posts/2019-01-27-treating-openbox-like-a-tiling-windowmanager)
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
