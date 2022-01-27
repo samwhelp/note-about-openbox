@@ -84,6 +84,8 @@ has_children: false
 
 ## Zentile / Config
 
+* [keybind](https://github.com/blrsn/zentile#config)
+
 | Demo | Config |
 | --- | --- |
 | Default Config | [~/zentile/config.toml](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/zentile-config/default/config/zentile/config.toml)
