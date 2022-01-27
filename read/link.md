@@ -71,6 +71,23 @@ has_children: true
 * [Treating OpenBox like a Tiling WindowManager](https://thomashunter.name/posts/2019-01-27-treating-openbox-like-a-tiling-windowmanager)
 
 
+## Tiling
+
+* Keyword Search: [zentile openbox](https://www.google.com/search?q=zentile+openbox)
+* [OpenBox tiling keybindings](https://unix.stackexchange.com/questions/574248/openbox-tiling-keybindings)
+* [zentile](https://github.com/blrsn/zentile)
+* [pytyle3](https://github.com/BurntSushi/pytyle3)
+* [Openbox-tiling](https://github.com/capn-damo/Openbox-tiling)
+* [rtile](https://github.com/xhsdf/rtile)
+* [pxdo](https://github.com/xhsdf/pxdo)
+
+
+## Zentile
+
+* archcraft-openbox / [~/zentile/config.toml](https://github.com/archcraft-os/archcraft-openbox/blob/main/files/zentile/config.toml)
+* KurosakiHT / [~/zentile/config.toml](https://github.com/KurosakiHT/dotfiles/tree/master/.config/zentile)
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
