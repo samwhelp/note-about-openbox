@@ -84,9 +84,11 @@ has_children: false
 
 ## Zentile / Config
 
-* Default Config : [~/zentile/config.toml](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/zentile-config/default/config/zentile/config.toml)
-* archcraft-openbox : [~/zentile/config.toml](https://github.com/archcraft-os/archcraft-openbox/blob/main/files/zentile/config.toml)
-* KurosakiHT : [~/zentile/config.toml](https://github.com/KurosakiHT/dotfiles/tree/master/.config/zentile)
+| Demo | Config |
+| --- | --- |
+| Default Config | [~/zentile/config.toml](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/zentile-config/default/config/zentile/config.toml)
+| archcraft-openbox | [~/zentile/config.toml](https://github.com/archcraft-os/archcraft-openbox/blob/main/files/zentile/config.toml) |
+| KurosakiHT | [~/zentile/config.toml](https://github.com/KurosakiHT/dotfiles/tree/master/.config/zentile) |
 
 
 ## Just the Docs
