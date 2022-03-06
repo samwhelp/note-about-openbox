@@ -88,6 +88,12 @@ mod_install_bin_ctrl () {
 	echo "install -Dm755 $THE_BIN_DIR_PATH/openbox-wallpaper-ctrl $HOME/.config/openbox/bin/openbox-wallpaper-ctrl"
 	install -Dm755 "$THE_BIN_DIR_PATH/openbox-wallpaper-ctrl" "$HOME/.config/openbox/bin/openbox-wallpaper-ctrl"
 
+	echo "install -Dm755 $THE_BIN_DIR_PATH/openbox-system-ctrl $HOME/.config/openbox/bin/openbox-system-ctrl"
+	install -Dm755 "$THE_BIN_DIR_PATH/openbox-system-ctrl" "$HOME/.config/openbox/bin/openbox-system-ctrl"
+
+	echo "install -Dm755 $THE_BIN_DIR_PATH/openbox-focus-ctrl $HOME/.config/openbox/bin/openbox-focus-ctrl"
+	install -Dm755 "$THE_BIN_DIR_PATH/openbox-focus-ctrl" "$HOME/.config/openbox/bin/openbox-focus-ctrl"
+
 	echo "install -Dm755 $THE_BIN_DIR_PATH/openbox-profile-ctrl $HOME/.config/openbox/bin/openbox-profile-ctrl"
 	install -Dm755 "$THE_BIN_DIR_PATH/openbox-profile-ctrl" "$HOME/.config/openbox/bin/openbox-profile-ctrl"
 
@@ -103,6 +109,9 @@ mod_install_ext () {
 
 	echo "install -Dm644 $THE_EXT_DIR_PATH/util.sh $HOME/.config/openbox/ext/util.sh"
 	install -Dm644 "$THE_EXT_DIR_PATH/util.sh" "$HOME/.config/openbox/ext/util.sh"
+
+	echo "install -Dm644 $THE_EXT_DIR_PATH/wallpaper.sh $HOME/.config/openbox/ext/wallpaper.sh"
+	install -Dm644 "$THE_EXT_DIR_PATH/wallpaper.sh" "$HOME/.config/openbox/ext/wallpaper.sh"
 
 	echo "install -Dm644 $THE_EXT_DIR_PATH/openbox.sh $HOME/.config/openbox/ext/openbox.sh"
 	install -Dm644 "$THE_EXT_DIR_PATH/openbox.sh" "$HOME/.config/openbox/ext/openbox.sh"
@@ -233,12 +242,26 @@ mod_install_share_style_profile_main () {
 	echo "install -Dm644 $THE_SHARE_DIR_PATH/style-profile/main/picom/picom.conf $HOME/.config/openbox/share/style-profile/main/picom/picom.conf"
 	install -Dm644 "$THE_SHARE_DIR_PATH/style-profile/main/picom/picom.conf" "$HOME/.config/openbox/share/style-profile/main/picom/picom.conf"
 
-	echo "install -Dm644 $THE_SHARE_DIR_PATH/style-profile/main/tint2/tint2rc $HOME/.config/openbox/share/style-profile/main/tint2/tint2rc"
-	install -Dm644 "$THE_SHARE_DIR_PATH/style-profile/main/tint2/tint2rc" "$HOME/.config/openbox/share/style-profile/main/tint2/tint2rc"
-
 	echo "install -Dm644 $THE_SHARE_DIR_PATH/style-profile/main/xsettingsd/xsettingsd.conf $HOME/.config/openbox/share/style-profile/main/xsettingsd/xsettingsd.conf"
 	install -Dm644 "$THE_SHARE_DIR_PATH/style-profile/main/xsettingsd/xsettingsd.conf" "$HOME/.config/openbox/share/style-profile/main/xsettingsd/xsettingsd.conf"
 
+
+
+
+	#echo "install -Dm644 $THE_SHARE_DIR_PATH/style-profile/main/tint2/tint2rc $HOME/.config/openbox/share/style-profile/main/tint2/tint2rc"
+	#install -Dm644 "$THE_SHARE_DIR_PATH/style-profile/main/tint2/tint2rc" "$HOME/.config/openbox/share/style-profile/main/tint2/tint2rc"
+
+	echo "install -Dm644 $THE_SHARE_DIR_PATH/style-profile/main/tint2/top_panel/tint2rc $HOME/.config/openbox/share/style-profile/main/tint2/top_panel/tint2rc"
+	install -Dm644 "$THE_SHARE_DIR_PATH/style-profile/main/tint2/top_panel/tint2rc" "$HOME/.config/openbox/share/style-profile/main/tint2/top_panel/tint2rc"
+
+	echo "install -Dm644 $THE_SHARE_DIR_PATH/style-profile/main/tint2/bottom_panel/tint2rc $HOME/.config/openbox/share/style-profile/main/tint2/bottom_panel/tint2rc"
+	install -Dm644 "$THE_SHARE_DIR_PATH/style-profile/main/tint2/bottom_panel/tint2rc" "$HOME/.config/openbox/share/style-profile/main/tint2/bottom_panel/tint2rc"
+
+	echo "install -Dm644 $THE_SHARE_DIR_PATH/style-profile/main/tint2/top_bottom_panel/tint2rc_top $HOME/.config/openbox/share/style-profile/main/tint2/top_bottom_panel/tint2rc_top"
+	install -Dm644 "$THE_SHARE_DIR_PATH/style-profile/main/tint2/top_bottom_panel/tint2rc_top" "$HOME/.config/openbox/share/style-profile/main/tint2/top_bottom_panel/tint2rc_top"
+
+	echo "install -Dm644 $THE_SHARE_DIR_PATH/style-profile/main/tint2/top_bottom_panel/tint2rc_bottom $HOME/.config/openbox/share/style-profile/main/tint2/top_bottom_panel/tint2rc_bottom"
+	install -Dm644 "$THE_SHARE_DIR_PATH/style-profile/main/tint2/top_bottom_panel/tint2rc_bottom" "$HOME/.config/openbox/share/style-profile/main/tint2/top_bottom_panel/tint2rc_bottom"
 
 }
 
