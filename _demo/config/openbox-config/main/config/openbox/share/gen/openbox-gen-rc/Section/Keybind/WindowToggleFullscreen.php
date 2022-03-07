@@ -1,5 +1,9 @@
 
 
+	<keybind key="F11">
+		<action name="ToggleFullscreen"/>
+	</keybind>
+
 	<keybind key="W-f">
 		<action name="ToggleFullscreen"/>
 	</keybind>
