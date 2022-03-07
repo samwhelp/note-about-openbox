@@ -20,8 +20,11 @@ source "$THE_BASE_DIR_PATH/init.sh"
 
 mod_manjaro_prepare () {
 
-	echo 'pamac install openbox'
-	pamac install openbox
+	#echo 'pamac install openbox'
+	#pamac install openbox
+
+	echo 'sudo pacman -Sy --needed openbox tint2 feh picom-ibhagwan-git xsettingsd rofi sakura pcmanfm-qt mousepad'
+	sudo pacman -Sy --needed openbox tint2 feh picom-ibhagwan-git xsettingsd rofi sakura pcmanfm-qt mousepad
 
 }
 

@@ -20,8 +20,8 @@ source "$THE_BASE_DIR_PATH/init.sh"
 
 mod_ubuntu_prepare () {
 
-	echo 'sudo apt-get install openbox'
-	sudo apt-get install openbox
+	echo 'sudo apt-get install openbox tint2 feh picom xsettingsd rofi sakura pcmanfm-qt mousepad'
+	sudo apt-get install openbox tint2 feh picom xsettingsd rofi sakura pcmanfm-qt mousepad
 
 }
 
