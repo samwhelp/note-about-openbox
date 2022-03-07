@@ -57,9 +57,6 @@
 	<separator />
 	<menu id="more-app-menu" label="More" icon="/usr/share/icons/Numix/16/categories/application-community.svg">
 <!--
-		<item label="tilix-quake" icon="/usr/share/icons/Numix-Apps/48/apps/terminal.svg" >
-			<action name="Execute"><execute>tilix --quake</execute></action>
-		</item>
 		<item label="gnome-terminal" icon="/usr/share/icons/Numix-Apps/48/apps/terminal.svg">
 			<action name="Execute"><execute>gnome-terminal</execute></action>
 		</item>
