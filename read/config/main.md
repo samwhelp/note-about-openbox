@@ -1,7 +1,7 @@
 ---
 title: 我的設定
 nav_order: 2020
-has_children: false
+has_children: true
 parent: 設定
 ---
 
