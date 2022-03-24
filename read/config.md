@@ -9,10 +9,10 @@ has_children: true
 
 ## 設定檔路徑
 
-* [~/.config/openbox/rc.xml](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/rc.xml)
-* [~/.config/openbox/menu.xml](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/menu.xml)
-* [~/.config/openbox/environment](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/environment)
-* [~/.config/openbox/autostart](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/autostart)
+* ~/.config/openbox/rc.xml
+* ~/.config/openbox/menu.xml
+* ~/.config/openbox/environment
+* ~/.config/openbox/autostart
 
 
 ## 設定檔範例
