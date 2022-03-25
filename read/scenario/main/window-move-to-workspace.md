@@ -10,7 +10,7 @@ grand_parent: 使用情境
 # 視窗移到指定工作空間
 
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/SendToDesktop.php#L125)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowMoveToWorkspace.php#L125)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | -------------------------------------------- | --------------------------------------------------- |
