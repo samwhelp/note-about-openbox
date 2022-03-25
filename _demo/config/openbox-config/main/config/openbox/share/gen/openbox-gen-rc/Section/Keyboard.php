@@ -2,12 +2,13 @@
 <keyboard>
 	<chainQuitKey>C-g</chainQuitKey>
 
-<?php include_once(__DIR__ . '/Keybind/Openbox.php'); ?>
+<?php include_once(__DIR__ . '/Keybind/SystemExit.php'); ?>
+<?php include_once(__DIR__ . '/Keybind/SystemSetting.php'); ?>
+<?php include_once(__DIR__ . '/Keybind/SystemToggleShowDesktop.php'); ?>
 
 <?php include_once(__DIR__ . '/Keybind/MenuClient.php'); ?>
 <?php include_once(__DIR__ . '/Keybind/MenuRoot.php'); ?>
 <?php include_once(__DIR__ . '/Keybind/MenuClientList.php'); ?>
-<?php include_once(__DIR__ . '/Keybind/ToggleShowDesktop.php'); ?>
 
 <?php include_once(__DIR__ . '/Keybind/WorkspaceSwitch.php'); ?>
 <?php include_once(__DIR__ . '/Keybind/WindowMoveToWorkspace.php'); ?>
