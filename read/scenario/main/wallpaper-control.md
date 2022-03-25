@@ -9,14 +9,14 @@ grand_parent: 使用情境
 
 # 桌面圖片
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/Wallpaper.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/Wallpaper.php#L3)
 
 | 按鍵組合         | 功能                 | 執行指令                                         |
 | ---------------- | -------------------- | ------------------------------------------------ |
-| `Alt + w`        | 隨機更換新的桌面圖片 | `openbox-wallpaper-ctrl shuf` |
-| `Alt + Ctrl + w` | 更換成預設的桌面圖片 | `openbox-wallpaper-ctrl default` |
+| `Alt + w`        | 隨機更換新的桌面圖片 | `feh --bg-fill --randomize ~/Pictures/Wallpaper` |
+| `Alt + Ctrl + w` | 更換成預設的桌面圖片 | `feh --bg-fill ~/Pictures/Wallpaper/default.jpg` |
 
 
-## 相關工具
+## 參考連結
 
-* [openbox-wallpaper-ctrl](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/bin/openbox-wallpaper-ctrl)
+* Arch Wiki / [Feh](https://wiki.archlinux.org/title/Feh)
