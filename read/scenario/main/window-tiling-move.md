@@ -1,5 +1,5 @@
 ---
-title: 平鋪視窗移動操作
+title: 視窗平鋪移動操作
 nav_order: 5022
 has_children: false
 parent: 使用情境(客製)
@@ -7,7 +7,7 @@ grand_parent: 使用情境
 ---
 
 
-# 平鋪視窗移動操作
+# 視窗平鋪移動操作
 
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowTilingMoveSide.php)
