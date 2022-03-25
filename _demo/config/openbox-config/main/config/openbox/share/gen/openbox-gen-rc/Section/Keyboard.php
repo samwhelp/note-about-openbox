@@ -35,7 +35,7 @@
 <?php include_once(__DIR__ . '/Keybind/WindowTilingMoveCorner.php'); ?>
 <?php include_once(__DIR__ . '/Keybind/WindowMoveToCenter.php'); ?>
 
-<?php include_once(__DIR__ . '/Keybind/Rofi.php'); ?>
+<?php include_once(__DIR__ . '/Keybind/ApplicationLaunchRofi.php'); ?>
 <?php include_once(__DIR__ . '/Keybind/LaunchApp.php'); ?>
 <?php include_once(__DIR__ . '/Keybind/FocusApp.php'); ?>
 
