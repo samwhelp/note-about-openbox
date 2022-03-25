@@ -40,7 +40,7 @@
 <?php include_once(__DIR__ . '/Keybind/FocusApp.php'); ?>
 
 <?php include_once(__DIR__ . '/Keybind/Volume.php'); ?>
-<?php include_once(__DIR__ . '/Keybind/Print.php'); ?>
+<?php include_once(__DIR__ . '/Keybind/Screenshot.php'); ?>
 
 <?php include_once(__DIR__ . '/Keybind/Wallpaper.php'); ?>
 
