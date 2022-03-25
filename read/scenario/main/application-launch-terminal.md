@@ -9,7 +9,7 @@ grand_parent: 使用情境
 
 # 開啟應用程式 (Terminal)
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/LaunchApp.php#L3)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/ApplicationLaunchTerminal.php#L3)
 
 
 | 按鍵組合           | 功能         | 執行指令         |
