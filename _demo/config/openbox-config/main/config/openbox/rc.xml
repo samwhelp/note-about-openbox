@@ -307,6 +307,35 @@
 	</keybind>
 
 
+	<!-- ## Restart //-->
+	<keybind key="A-S-z">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>Exit</name>
+			</startupnotify>
+			<command>obsession-logout</command>
+		</action>
+	</keybind>
+
+
+
+	<!-- ## Logout //-->
+	<keybind key="A-S-x">
+		<action name="Exit" />
+	</keybind>
+
+	<keybind key="C-A-Delete">
+		<action name="Exit" />
+	</keybind>
+
+
+	<!-- ## Reconfigure //-->
+	<keybind key="A-S-c">
+		<action name="Reconfigure" />
+	</keybind>
+
+
 	<!-- ## Launch obconf //-->
 	<keybind key="A-S-s">
 		<action name="Execute">
@@ -329,6 +358,13 @@
 			<command>xfce4-appearance-settings</command>
 		</action>
 	</keybind>
+
+
+	<keybind key="W-d">
+		<action name="ToggleShowDesktop"/>
+	</keybind>
+
+
 
 
 
@@ -364,13 +400,6 @@
 			<menu>client-list-combined-menu</menu>
 		</action>
 	</keybind>	
-
-
-
-	<keybind key="W-d">
-		<action name="ToggleShowDesktop"/>
-	</keybind>
-
 
 
 
@@ -1731,6 +1760,15 @@ h l
 		</action>
 	</keybind>
 
+	<keybind key="A-C-a">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>Terminal</name>
+			</startupnotify>
+			<command>xfce4-terminal --maximize</command>
+		</action>
+	</keybind>
 
 	<!-- ## Terminal-Quake //-->
 	<keybind key="A-S-y">
@@ -1810,46 +1848,6 @@ h l
 			<command>mousepad</command>
 		</action>
 	</keybind>
-
-
-
-<keybind key="A-C-a">
-	<action name="Execute">
-		<command>openbox-focus-ctrl the_sakura</command>
-	</action>
-</keybind>
-
-
-<keybind key="A-C-t">
-	<action name="Execute">
-		<command>openbox-focus-ctrl the_xfce4_terminal</command>
-	</action>
-</keybind>
-
-
-<keybind key="A-C-e">
-	<action name="Execute">
-		<command>openbox-focus-ctrl the_atom</command>
-	</action>
-</keybind>
-
-<keybind key="A-C-f">
-	<action name="Execute">
-		<command>openbox-focus-ctrl the_pcmanfm_qt</command>
-	</action>
-</keybind>
-
-<keybind key="A-C-g">
-	<action name="Execute">
-		<command>openbox-focus-ctrl the_thunar</command>
-	</action>
-</keybind>
-
-<keybind key="A-C-b">
-	<action name="Execute">
-		<command>openbox-focus-ctrl the_firefox</command>
-	</action>
-</keybind>
 
 
 
