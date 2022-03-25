@@ -23,7 +23,7 @@ grand_parent: 使用情境
 
 ## 指定切換
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/GoToDesktop.php#L80)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WorkspaceSwitch.php#L80)
 
 | 按鍵組合  | 功能                    | 執行指令                       |
 | --------- | ----------------------- | ------------------------------ |
