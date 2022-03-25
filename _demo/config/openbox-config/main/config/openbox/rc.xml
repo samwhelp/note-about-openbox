@@ -1720,6 +1720,7 @@ h l
 			<command>sakura -m</command>
 		</action>
 	</keybind>
+
 	<keybind key="A-S-a">
 		<action name="Execute">
 			<startupnotify>
@@ -1730,18 +1731,6 @@ h l
 		</action>
 	</keybind>
 
-	<!-- ## Terminal-Quake //-->
-	<!--
-	<keybind key="A-C-a">
-		<action name="Execute">
-			<startupnotify>
-				<enabled>true</enabled>
-				<name>Terminal-Quake</name>
-			</startupnotify>
-			<command>xfce4-terminal</command>
-		</action>
-	</keybind>
-	//-->
 
 	<!-- ## Terminal-Quake //-->
 	<keybind key="A-S-y">
@@ -1821,6 +1810,7 @@ h l
 			<command>mousepad</command>
 		</action>
 	</keybind>
+
 
 
 <keybind key="A-C-a">
@@ -1926,6 +1916,7 @@ h l
 			<command>amixer -q -D pulse sset Master 5%+ unmute</command>
 		</action>
 	</keybind>
+
 
 
 

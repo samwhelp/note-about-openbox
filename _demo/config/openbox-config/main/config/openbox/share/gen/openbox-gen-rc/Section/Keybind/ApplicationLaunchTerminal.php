@@ -1,15 +1,5 @@
 
 
-	<!-- ## Terminal //-->
-	<keybind key="A-Return">
-		<action name="Execute">
-			<startupnotify>
-				<enabled>true</enabled>
-				<name>Terminal</name>
-			</startupnotify>
-			<command>sakura -m</command>
-		</action>
-	</keybind>
 <?php
 /*
 	<keybind key="A-Return">
@@ -23,6 +13,17 @@
 	</keybind>
 */
 ?>
+	<!-- ## Terminal //-->
+	<keybind key="A-Return">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>Terminal</name>
+			</startupnotify>
+			<command>sakura -m</command>
+		</action>
+	</keybind>
+
 	<keybind key="A-S-a">
 		<action name="Execute">
 			<startupnotify>
@@ -33,18 +34,19 @@
 		</action>
 	</keybind>
 
-	<!-- ## Terminal-Quake //-->
-	<!--
+<?php
+/*
 	<keybind key="A-C-a">
 		<action name="Execute">
 			<startupnotify>
 				<enabled>true</enabled>
-				<name>Terminal-Quake</name>
+				<name>Terminal</name>
 			</startupnotify>
-			<command>xfce4-terminal</command>
+			<command>xfce4-terminal --maximize</command>
 		</action>
 	</keybind>
-	//-->
+*/
+?>
 
 	<!-- ## Terminal-Quake //-->
 	<keybind key="A-S-y">

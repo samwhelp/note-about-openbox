@@ -38,9 +38,12 @@
 <?php include_once(__DIR__ . '/Keybind/ApplicationLaunchRofi.php'); ?>
 <?php include_once(__DIR__ . '/Keybind/ApplicationLaunchTerminal.php'); ?>
 <?php include_once(__DIR__ . '/Keybind/ApplicationLaunchFavorite.php'); ?>
-<?php include_once(__DIR__ . '/Keybind/FocusApp.php'); ?>
+
+<?php include_once(__DIR__ . '/Keybind/ApplicationFocusTerminal.php'); ?>
+<?php include_once(__DIR__ . '/Keybind/ApplicationFocusFavorite.php'); ?>
 
 <?php include_once(__DIR__ . '/Keybind/Volume.php'); ?>
+
 <?php include_once(__DIR__ . '/Keybind/Screenshot.php'); ?>
 
 <?php include_once(__DIR__ . '/Keybind/Wallpaper.php'); ?>
