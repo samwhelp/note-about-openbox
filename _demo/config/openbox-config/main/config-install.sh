@@ -23,8 +23,8 @@ openbox_config_install () {
 	echo "install -Dm644 ./config/openbox/menu.xml $HOME/.config/openbox/menu.xml"
 	install -Dm644 "./config/openbox/menu.xml" "$HOME/.config/openbox/menu.xml"
 
-	echo "install -Dm644 ./config/openbox/autostart $HOME/.config/openbox/autostart"
-	install -Dm644 "./config/openbox/autostart" "$HOME/.config/openbox/autostart"
+	echo "install -Dm755 ./config/openbox/autostart $HOME/.config/openbox/autostart"
+	install -Dm755 "./config/openbox/autostart" "$HOME/.config/openbox/autostart"
 
 	echo "install -Dm644 ./config/openbox/environment $HOME/.config/openbox/environment"
 	install -Dm644 "./config/openbox/environment" "$HOME/.config/openbox/environment"
