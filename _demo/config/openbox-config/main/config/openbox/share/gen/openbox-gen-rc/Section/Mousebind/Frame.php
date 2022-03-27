@@ -2,6 +2,41 @@
 
 	<context name="Frame">
 
+<!--
+
+## clicksnap
+
+### Link
+
+* https://git.maboxlinux.org/napcok/clicksnap
+* https://github.com/napcok/clicksnap
+
+### Requirements
+
+* wmctrl
+* xdotool
+* xwininfo
+
+### Install
+
+``` sh
+wget -c 'https://git.maboxlinux.org/napcok/clicksnap/raw/branch/master/clicksnap'
+chmod 755 clicksnap
+
+sudo cp clicksnap /usr/local/bin/clicksnap
+```
+
+//-->
+
+<!--
+		<mousebind action="Press" button="C-Left">
+			<action name="UnmaximizeFull"/>
+			<action name="Execute">
+				<command>clicksnap</command>
+			</action>
+		</mousebind>
+//-->
+
 		<mousebind button="W-Left" action="Press">
 			<action name="Focus"/>
 			<action name="Raise"/>

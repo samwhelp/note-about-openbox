@@ -1,0 +1,9 @@
+
+<context name="Frame">
+	<mousebind action="Press" button="C-Left">
+		<action name="UnmaximizeFull"/>
+		<action name="Execute">
+			<command>clicksnap</command>
+		</action>
+	</mousebind>
+</context>

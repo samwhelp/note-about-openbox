@@ -307,6 +307,35 @@
 	</keybind>
 
 
+	<!-- ## Restart //-->
+	<keybind key="A-S-z">
+		<action name="Execute">
+			<startupnotify>
+				<enabled>true</enabled>
+				<name>Exit</name>
+			</startupnotify>
+			<command>obsession-logout</command>
+		</action>
+	</keybind>
+
+
+
+	<!-- ## Logout //-->
+	<keybind key="A-S-x">
+		<action name="Exit" />
+	</keybind>
+
+	<keybind key="C-A-Delete">
+		<action name="Exit" />
+	</keybind>
+
+
+	<!-- ## Reconfigure //-->
+	<keybind key="A-S-c">
+		<action name="Reconfigure" />
+	</keybind>
+
+
 	<!-- ## Launch obconf //-->
 	<keybind key="A-S-s">
 		<action name="Execute">
@@ -329,6 +358,13 @@
 			<command>xfce4-appearance-settings</command>
 		</action>
 	</keybind>
+
+
+	<keybind key="W-d">
+		<action name="ToggleShowDesktop"/>
+	</keybind>
+
+
 
 
 
@@ -364,13 +400,6 @@
 			<menu>client-list-combined-menu</menu>
 		</action>
 	</keybind>	
-
-
-
-	<keybind key="W-d">
-		<action name="ToggleShowDesktop"/>
-	</keybind>
-
 
 
 
@@ -1975,6 +2004,29 @@ h l
 	
 
 	<context name="Frame">
+
+<!--
+
+## clicksnap
+
+* https://git.maboxlinux.org/napcok/clicksnap
+* https://github.com/napcok/clicksnap
+
+``` sh
+wget -c 'https://git.maboxlinux.org/napcok/clicksnap/raw/branch/master/clicksnap'
+chmod 755 clicksnap
+
+sudo cp clicksnap /usr/local/bin/clicksnap
+```
+//-->
+
+		<mousebind action="Press" button="C-Left">
+			<action name="UnmaximizeFull"/>
+			<action name="Execute">
+				<command>clicksnap</command>
+			</action>
+		</mousebind>
+
 
 		<mousebind button="W-Left" action="Press">
 			<action name="Focus"/>
