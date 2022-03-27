@@ -18,6 +18,7 @@ grand_parent: 使用情境
 * [取消開始相關操作](#取消開始相關操作)
 * [永遠在最上方](#永遠在最上方)
 * [內容區塊收合](#內容區塊收合)
+* [切換顯示隱藏視窗裝飾](#切換顯示隱藏視窗裝飾)
 * [將下方視窗移上來](#將下方視窗移上來)
 
 
@@ -101,14 +102,15 @@ grand_parent: 使用情境
 > 也可以在「標題列」，使用「滑鼠中鍵」上下滾動，切換內容區塊收合。
 
 
-## 切換顯示隱藏Decorations
+## 切換顯示隱藏視窗裝飾
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleDecorations.php)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
-| `Win + v` | 切換顯示隱藏Decorations | `ToggleDecorations` (openbox 內建) |
+| `Win + v` | 切換顯示隱藏視窗裝飾(Decorations) | `ToggleDecorations` (openbox 內建) |
 
+> 視窗裝飾(Decorations)，最明顯的，就可以看到標題列隱藏或是顯示。
 
 ## 將下方視窗移上來
 
