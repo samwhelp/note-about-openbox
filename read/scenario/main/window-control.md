@@ -107,7 +107,7 @@ grand_parent: 使用情境
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
-| `Win + y` | 切換顯示隱藏Decorations | `ToggleDecorations` (openbox 內建) |
+| `Win + v` | 切換顯示隱藏Decorations | `ToggleDecorations` (openbox 內建) |
 
 
 ## 將下方視窗移上來
