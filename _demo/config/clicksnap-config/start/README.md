@@ -30,7 +30,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 edit ~/.config/openbox/rc.xml
 
 ```
-	<mousebind action="Press" button="W-Left">
+	<mousebind action="Press" button="A-Left">
 		<action name="UnmaximizeFull"/>
 		<action name="Execute">
 			<command>clicksnap</command>
@@ -42,7 +42,7 @@ Add this mousebind action to context Frame:
 
 ```
 <context name="Frame">
-	<mousebind action="Press" button="W-Left">
+	<mousebind action="Press" button="A-Left">
 		<action name="UnmaximizeFull"/>
 		<action name="Execute">
 			<command>clicksnap</command>

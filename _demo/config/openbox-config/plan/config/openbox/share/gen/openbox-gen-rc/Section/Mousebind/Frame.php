@@ -40,7 +40,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 //-->
 
-		<mousebind action="Press" button="S-Left">
+		<mousebind action="Press" button="A-Left">
 			<action name="UnmaximizeFull"/>
 			<action name="Execute">
 				<command>clicksnap</command>
