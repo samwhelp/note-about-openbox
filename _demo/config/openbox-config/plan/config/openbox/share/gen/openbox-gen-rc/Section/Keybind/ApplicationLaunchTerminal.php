@@ -34,8 +34,6 @@
 		</action>
 	</keybind>
 
-<?php
-/*
 	<keybind key="A-C-a">
 		<action name="Execute">
 			<startupnotify>
@@ -45,8 +43,6 @@
 			<command>xfce4-terminal --maximize</command>
 		</action>
 	</keybind>
-*/
-?>
 
 	<!-- ## Terminal-Quake //-->
 	<keybind key="A-S-y">
