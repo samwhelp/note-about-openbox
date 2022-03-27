@@ -10,6 +10,8 @@ grand_parent: 使用情境
 # 視窗平鋪移動操作
 
 
+## 移動到側邊(side)
+
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowTilingMoveSide.php)
 
 | 按鍵組合          | 功能           | 執行指令              |
@@ -19,6 +21,8 @@ grand_parent: 使用情境
 | `Alt + Ctrl + h` | 視窗更改大小，移動至西方(畫面左半部) | 組合指令，請參考「設定片段」  |
 | `Alt + Ctrl + l` | 視窗更改大小，移動至東方(畫面右半部) | 組合指令，請參考「設定片段」 |
 
+
+## 移動到角落(corner)
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowTilingMoveCorner.php)
 
@@ -31,9 +35,18 @@ grand_parent: 使用情境
 | `Alt + Shift + l` | 視窗更改大小，移動至東南方(畫面右下半部) | 組合指令，請參考「設定片段」 |
 
 
+## 操作兩個視窗側邊平鋪
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/WindowTiling.php)
 
 
 | 按鍵組合          | 功能           | 執行指令              |
 | ----------------- | -------------- | ---------------------------- |
+| `Alt + Ctrl + u` | 操作兩個視窗，平鋪移動至畫面上下兩側半部) | 組合指令，請參考「設定片段」    |
+| `Alt + Ctrl + i` | 操作兩個視窗，平鋪移動至畫面左右兩側半部 | 組合指令，請參考「設定片段」    |
+| `Alt + Ctrl + o` | 簡易恢復上面兩個操作 | 組合指令，請參考「設定片段」    |
+
+
+## 搭配使用「clicksnap」平鋪移動視窗
+
+請參考另一篇「[搭配使用「clicksnap」平鋪移動視窗](https://samwhelp.github.io/note-about-openbox/read/howto/window-tiling-move-by-clicksnap.html)」的說明

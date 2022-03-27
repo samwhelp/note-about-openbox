@@ -71,3 +71,14 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/share/gen/openbox-gen-rc/Section/Mousebind/Frame.php#L31) ([完整範例](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/rc.xml#L2023))
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Mousebind/Frame.php#L32) ([完整範例](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/rc.xml#L2004))
+
+
+## 如何「clicksnap」平鋪移動視窗
+
+將「單一視窗」看成「九宮格」，
+
+然後在「單一視窗」的「九宮格」的其中一格，
+
+按下「Ctrl + 滑鼠左鍵」，就會將「該視窗」更改大小，
+
+並且「平鋪移動」畫面上「九宮格」的那一格。
