@@ -47,6 +47,7 @@
 
 ## 相關筆記
 
+* [System Modeling](https://samwhelp.github.io/system-modeling/)
 * [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
 * [archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) / [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package/) / [openbox-with-tint](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/openbox/archcraft-modeling-openbox-with-tint/asset/etc/skel/.local/share/openboxrc-profile/openbox-with-tint)
