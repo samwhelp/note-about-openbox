@@ -93,6 +93,20 @@ has_children: false
 | KurosakiHT | [~/.config/zentile/config.toml](https://github.com/KurosakiHT/dotfiles/tree/master/.config/zentile) |
 
 
+## clicksnap
+
+* [https://git.maboxlinux.org/napcok/clicksnap](https://git.maboxlinux.org/napcok/clicksnap)
+* [https://github.com/napcok/clicksnap](https://github.com/napcok/clicksnap)
+
+## jgmenu
+
+* [https://github.com/johanmalm/jgmenu](https://github.com/johanmalm/jgmenu)
+
+## mabox linux
+
+* [https://samwhelp.github.io/note-about-manjaro/read/link/mabox_linux.html](https://samwhelp.github.io/note-about-manjaro/read/link/mabox_linux.html)
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
