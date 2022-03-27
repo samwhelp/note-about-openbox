@@ -10,6 +10,7 @@
 
 * https://git.maboxlinux.org/napcok/clicksnap
 * https://github.com/napcok/clicksnap
+* Openbox Wiki / [Help:Bindings](http://openbox.org/wiki/Help:Bindings#Mouse_bindings)
 
 ### Requirements
 
@@ -26,10 +27,22 @@ chmod 755 clicksnap
 sudo cp clicksnap /usr/local/bin/clicksnap
 ```
 
+
+## Mousebind
+
+| Setting                                      | Mousebind                  |
+| `<mousebind action="Press" button="S-Left">` | `Shift + Mouse Left Click` |
+| `<mousebind action="Press" button="C-Left">` | `Ctrl + Mouse Left Click`  |
+| `<mousebind action="Press" button="A-Left">` | `Alt + Mouse Left Click`   |
+| `<mousebind action="Press" button="W-Left">` | `Win + Mouse Left Click`   |
+
+* Openbox Wiki / Help:Bindings / [1.1.1.1 Modifiers](http://openbox.org/wiki/Help:Bindings#Modifiers)
+
+
 //-->
 
 <!--
-		<mousebind action="Press" button="C-Left">
+		<mousebind action="Press" button="S-Left">
 			<action name="UnmaximizeFull"/>
 			<action name="Execute">
 				<command>clicksnap</command>

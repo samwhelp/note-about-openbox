@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openbox_config xmlns="http://openbox.org/3.4/rc" xmlns:xi="http://www.w3.org/2001/XInclude">
-	
+
+
 
 <resistance>
 	<strength>10</strength>
@@ -2001,7 +2002,8 @@ h l
 		switching due to hitting the edge of the screen
 	//-->
 
-	
+
+
 
 	<context name="Frame">
 
@@ -2009,8 +2011,19 @@ h l
 
 ## clicksnap
 
+### Link
+
 * https://git.maboxlinux.org/napcok/clicksnap
 * https://github.com/napcok/clicksnap
+* Openbox Wiki / [Help:Bindings](http://openbox.org/wiki/Help:Bindings#Mouse_bindings)
+
+### Requirements
+
+* wmctrl
+* xdotool
+* xwininfo
+
+### Install
 
 ``` sh
 wget -c 'https://git.maboxlinux.org/napcok/clicksnap/raw/branch/master/clicksnap'
@@ -2018,9 +2031,21 @@ chmod 755 clicksnap
 
 sudo cp clicksnap /usr/local/bin/clicksnap
 ```
+
+## Mousebind
+
+| Setting                                      | Mousebind                  |
+| `<mousebind action="Press" button="S-Left">` | `Shift + Mouse Left Click` |
+| `<mousebind action="Press" button="C-Left">` | `Ctrl + Mouse Left Click`  |
+| `<mousebind action="Press" button="A-Left">` | `Alt + Mouse Left Click`   |
+| `<mousebind action="Press" button="W-Left">` | `Win + Mouse Left Click`   |
+
+* Openbox Wiki / Help:Bindings / [1.1.1.1 Modifiers](http://openbox.org/wiki/Help:Bindings#Modifiers)
+
+
 //-->
 
-		<mousebind action="Press" button="C-Left">
+		<mousebind action="Press" button="S-Left">
 			<action name="UnmaximizeFull"/>
 			<action name="Execute">
 				<command>clicksnap</command>
@@ -2107,7 +2132,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 
 	</context>
-	
+
 
 	<context name="Titlebar">
 
@@ -2241,7 +2266,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 		</mousebind>
 
 	</context>
-	
+
 
 	<context name="Client">
 
@@ -2379,7 +2404,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 		</mousebind>
 
 	</context>
-	
+
 
 	<context name="Desktop">
 
@@ -2419,7 +2444,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 		</mousebind>
 
 	</context>
-	
+
 
 	<context name="Root">
 
@@ -2445,7 +2470,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 	</context>
 
-	
+
 
 	<context name="MoveResize">
 
@@ -2474,6 +2499,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 		</mousebind>
 
 	</context>
+
 
 </mouse>
 
@@ -2740,6 +2766,7 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 
 </applications>
+
 
 
 </openbox_config>

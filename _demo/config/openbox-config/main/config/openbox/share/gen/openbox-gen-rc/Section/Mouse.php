@@ -17,12 +17,14 @@
 		switching due to hitting the edge of the screen
 	//-->
 
-	<?php include_once(__DIR__ . '/Mousebind/Frame.php'); ?>
-	<?php include_once(__DIR__ . '/Mousebind/Titlebar.php'); ?>
-	<?php include_once(__DIR__ . '/Mousebind/Client.php'); ?>
-	<?php include_once(__DIR__ . '/Mousebind/Desktop.php'); ?>
-	<?php include_once(__DIR__ . '/Mousebind/Root.php'); ?>
-	<?php include_once(__DIR__ . '/Mousebind/MoveResize.php'); ?>
+
+<?php include_once(__DIR__ . '/Mousebind/Frame.php'); ?>
+<?php include_once(__DIR__ . '/Mousebind/Titlebar.php'); ?>
+<?php include_once(__DIR__ . '/Mousebind/Client.php'); ?>
+<?php include_once(__DIR__ . '/Mousebind/Desktop.php'); ?>
+<?php include_once(__DIR__ . '/Mousebind/Root.php'); ?>
+<?php include_once(__DIR__ . '/Mousebind/MoveResize.php'); ?>
+
 
 </mouse>
 
