@@ -1,18 +1,18 @@
 
 # clicksnap
 
-### Link
+## Link
 
 * https://git.maboxlinux.org/napcok/clicksnap
 * https://github.com/napcok/clicksnap
 
-### Requirements
+## Requirements
 
 * wmctrl
 * xdotool
 * xwininfo
 
-### Download
+## Download
 
 download clicksnap to /usr/local/bin/clicksnap
 
@@ -23,7 +23,7 @@ chmod 755 clicksnap
 sudo cp clicksnap /usr/local/bin/clicksnap
 ```
 
-### Config
+## Config
 
 edit ~/.config/openbox/rc.xml
 
