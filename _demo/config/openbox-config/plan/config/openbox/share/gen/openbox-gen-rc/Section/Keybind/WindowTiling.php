@@ -1,7 +1,7 @@
 
 
 	<!-- Tiling Window (North-South) (Top-Bottom) -->
-	<keybind key="A-C-u">
+	<keybind key="A-C-i">
 		<action name="Undecorate"/>
 		<action name="UnmaximizeFull"/>
 		<action name="MoveResizeTo">
@@ -32,7 +32,7 @@
 
 
 	<!-- Tiling Window (West-East) (Left-Right) -->
-	<keybind key="A-C-i">
+	<keybind key="A-C-o">
 		<action name="Undecorate"/>
 		<action name="UnmaximizeFull"/>
 		<action name="MoveResizeTo">
@@ -63,7 +63,7 @@
 
 
 	<!-- Restore window dimensions -->
-	<keybind key="A-C-o">
+	<keybind key="A-C-u">
 		<action name="UnmaximizeFull"/>
 		<action name="Decorate"/>
 		<action name="NextWindow">
@@ -112,7 +112,7 @@
 
 
 	<!-- Tiling Window (West-East) (Left-Right) -->
-	<keybind key="A-Left">
+	<keybind key="A-Right">
 		<action name="Undecorate"/>
 		<action name="UnmaximizeFull"/>
 		<action name="MoveResizeTo">
@@ -143,7 +143,7 @@
 
 
 	<!-- Restore window dimensions -->
-	<keybind key="A-Right">
+	<keybind key="A-Left">
 		<action name="UnmaximizeFull"/>
 		<action name="Decorate"/>
 		<action name="NextWindow">
