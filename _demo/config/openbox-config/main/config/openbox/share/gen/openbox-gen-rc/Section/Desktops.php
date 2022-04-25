@@ -23,10 +23,10 @@
 		<name>desktop 4</name>
 		//-->
 
-		<name>Term</name>
+		<name>File</name>
 		<name>Edit</name>
 		<name>Web</name>
-		<name>File</name>
+		<name>Term</name>
 		<name>Misc</name>
 		<name>Free</name>
 
