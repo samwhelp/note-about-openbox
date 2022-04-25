@@ -37,7 +37,7 @@
 
 	<keybind key="W-F2">
 		<action name="Execute">
-			<command>openbox-focus-ctrl the_atom</command>
+			<command>openbox-focus-ctrl the_mousepad</command>
 		</action>
 	</keybind>
 
