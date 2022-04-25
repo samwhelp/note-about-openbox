@@ -7,7 +7,7 @@ grand_parent: 使用情境
 ---
 
 
-# 開啟應用程式 (常用的)
+# 聚焦應用程式 (常用的)
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/ApplicationFocusFn.php)
 * [openbox-focus-ctrl](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/bin/openbox-focus-ctrl)
