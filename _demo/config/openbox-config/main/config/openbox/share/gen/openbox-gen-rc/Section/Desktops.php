@@ -31,10 +31,10 @@
 		<name>Free</name>
 
 		<!--
-		<name>Term (1)</name>
+		<name>File (1)</name>
 		<name>Edit (2)</name>
 		<name>Web (3)</name>
-		<name>File (4)</name>
+		<name>Term (4)</name>
 		<name>Misc (5)</name>
 		<name>Free (6)</name>
 		//-->

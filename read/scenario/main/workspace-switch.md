@@ -14,10 +14,10 @@ grand_parent: 使用情境
 
 | 工作空間 | 名稱  |
 | -------- | ----- |
-| 1        | Term  |
+| 1        | File  |
 | 2        | Edit  |
 | 3        | Web   |
-| 4        | File  |
+| 4        | Term  |
 | 5        | Misc  |
 
 
@@ -27,10 +27,10 @@ grand_parent: 使用情境
 
 | 按鍵組合  | 功能                    | 執行指令                       |
 | --------- | ----------------------- | ------------------------------ |
-| `Alt + 1` | 切換到工作空間 1 (Term) | `GoToDesktop` (openbox 內建) |
+| `Alt + 1` | 切換到工作空間 1 (File) | `GoToDesktop` (openbox 內建) |
 | `Alt + 2` | 切換到工作空間 2 (Edit) | `GoToDesktop` (openbox 內建) |
 | `Alt + 3` | 切換到工作空間 3 (Web)  | `GoToDesktop` (openbox 內建) |
-| `Alt + 4` | 切換到工作空間 4 (File) | `GoToDesktop` (openbox 內建) |
+| `Alt + 4` | 切換到工作空間 4 (Term) | `GoToDesktop` (openbox 內建) |
 | `Alt + 5` | 切換到工作空間 5 (Misc) | `GoToDesktop` (openbox 內建) |
 | `Alt + 6` | 切換到工作空間 1        | `GoToDesktop` (openbox 內建) |
 | `Alt + 7` | 切換到工作空間 2        | `GoToDesktop` (openbox 內建) |

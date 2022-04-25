@@ -23,18 +23,18 @@
 		<name>desktop 4</name>
 		//-->
 
-		<name>Term</name>
+		<name>File</name>
 		<name>Edit</name>
 		<name>Web</name>
-		<name>File</name>
+		<name>Term</name>
 		<name>Misc</name>
 		<name>Free</name>
 
 		<!--
-		<name>Term (1)</name>
+		<name>File (1)</name>
 		<name>Edit (2)</name>
 		<name>Web (3)</name>
-		<name>File (4)</name>
+		<name>Term (4)</name>
 		<name>Misc (5)</name>
 		<name>Free (6)</name>
 		//-->
