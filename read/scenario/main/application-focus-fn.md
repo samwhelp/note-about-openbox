@@ -11,6 +11,7 @@ grand_parent: 使用情境
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/ApplicationFocusFn.php)
 * [openbox-focus-ctrl](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/bin/openbox-focus-ctrl)
+* $ man [wmctrl](http://manpages.ubuntu.com/manpages/jammy/en/man1/wmctrl.1.html)
 
 
 | 按鍵組合          | 功能           | 執行指令     |
