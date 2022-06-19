@@ -13,7 +13,7 @@ grand_parent: 使用情境
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
-| `Alt + Shift + v` | 開啟音量控制面板 | `pavucontrol`                       |
+| `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
 | `Alt + m`         | 音量切換成靜音   | `amixer -q -D pulse sset Master toggle`     |
 | `Alt + Shift + <` | 減小音量         | `amixer -q -D pulse sset Master 5%- unmute` |
 | `Alt + Shift + >` | 增加音量         | `amixer -q -D pulse sset Master 5%+ unmute` |
