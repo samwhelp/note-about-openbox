@@ -105,6 +105,7 @@ has_children: false
 ## mabox linux
 
 * [https://samwhelp.github.io/note-about-manjaro/read/link/mabox_linux.html](https://samwhelp.github.io/note-about-manjaro/read/link/mabox_linux.html)
+* [Mabox Linux 探索筆記](https://samwhelp.github.io/note-about-mabox/) ([GitHub](https://github.com/samwhelp/note-about-mabox))
 
 
 ## Just the Docs
