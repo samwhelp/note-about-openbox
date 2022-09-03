@@ -33,4 +33,6 @@
 
 ## Link
 
-* [openbox](http://openbox.org/)
+* [Openbox](http://openbox.org/)
+* [Debian Wiki] / [Openbox](https://wiki.debian.org/Openbox)
+* [Arch Wiki] / [Openbox](https://wiki.archlinux.org/title/openbox)
