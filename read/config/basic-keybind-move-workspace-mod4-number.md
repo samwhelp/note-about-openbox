@@ -13,7 +13,7 @@ parent: 設定
 
 | 說明 |
 | --- |
-| [中文版](https://samwhelp.github.io/note-about-openbox/read/scenario/main.html) |
+| [中文版](https://samwhelp.github.io/note-about-openbox/read/config/basic-keybind-move-workspace-mod4-number/keybind.html) |
 | [英文版](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/doc/spec-keybind.md) |
 
 
