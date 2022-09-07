@@ -16,10 +16,10 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能           | 執行指令     |
 | ----------------- | -------------- | ------------ |
-| `Win + F1` | 開啟或聚焦檔案管理器 | `pcmanfm-qt` 或是 `wmctrl -x -a pcmanfm-qt` |
-| `Win + F2` | 開啟或聚焦文字編輯器 | `atom` 或是 `wmctrl -x -a atom`     |
-| `Win + F3` | 開啟或聚焦啟網頁瀏覽器 | `firefox` 或是 `wmctrl -x -a firefox`   |
-| `Win + F4` | 開啟或聚焦終端機    | `sakura` 或是 `wmctrl -x -a sakura`    |
+| `Win + 1` | 開啟或聚焦檔案管理器 | `pcmanfm-qt` 或是 `wmctrl -x -a pcmanfm-qt` |
+| `Win + 2` | 開啟或聚焦文字編輯器 | `atom` 或是 `wmctrl -x -a atom`     |
+| `Win + 3` | 開啟或聚焦啟網頁瀏覽器 | `firefox` 或是 `wmctrl -x -a firefox`   |
+| `Win + 4` | 開啟或聚焦終端機    | `sakura` 或是 `wmctrl -x -a sakura`    |
 
 
 | 按鍵組合          | 功能           | 執行指令     |
