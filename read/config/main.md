@@ -33,8 +33,8 @@ parent: 設定
 
 | 說明 |
 | --- |
-| [英文版](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/doc/spec-keybind.md) |
 | [中文版](https://samwhelp.github.io/note-about-openbox/read/scenario/main.html) |
+| [英文版](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/doc/spec-keybind.md) |
 
 
 ## Link
