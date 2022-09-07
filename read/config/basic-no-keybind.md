@@ -11,4 +11,4 @@ parent: 設定
 
 ## 設定檔專案
 
-* [default](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-no-keybind)
+* [basic-no-keybind](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-no-keybind)
