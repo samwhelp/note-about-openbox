@@ -69,11 +69,13 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 ## 設定範例
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/share/gen/openbox-gen-rc/Section/Mousebind/Frame.php#L31) ([完整範例](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/rc.xml#L2023))
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc/Section/Mousebind/Frame.php#L32) ([完整範例](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/rc.xml#L2004))
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Mousebind/Frame.php#L43-L48) ([完整範例](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/rc.xml#L2043-L2048))
+
 
 
 ## 按鍵綁定
+
+> 可以選擇下面其中一種，我是採用「`Alt + Mouse Left Click`」
 
 | 設定                                         | 動作                        |
 | -------------------------------------------- | -------------------------- |
@@ -91,6 +93,6 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 然後在「單一視窗」的「九宮格」的其中一格，
 
-我是設定，按下「Alt + 滑鼠左鍵」，就會將「該視窗」更改大小，
+我是設定，按下「`Alt + 滑鼠左鍵`」，就會將「該視窗」更改大小，
 
 並且「平鋪移動」畫面上「九宮格」的那一格。
