@@ -15,10 +15,10 @@
 
 | Path | Note |
 | --- | --- |
-| [~/.config/openbox/rc.xml]rc.xml) | openbox rc |
-| [~/.config/openbox/menu.xml]menu.xml) | openbox menu |
-| [~/.config/openbox/environment]environment) | openbox environment |
-| [~/.config/openbox/autostart]autostart) | openbox autostart |
+| [~/.config/openbox/rc.xml](rc.xml) | openbox rc |
+| [~/.config/openbox/menu.xml](menu.xml) | openbox menu |
+| [~/.config/openbox/environment](environment) | openbox environment |
+| [~/.config/openbox/autostart](autostart) | openbox autostart |
 
 
 ### System

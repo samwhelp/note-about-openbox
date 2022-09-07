@@ -1,36 +1,13 @@
+THE_MAKEFILE_FILE_PATH := $(abspath $(lastword $(MAKEFILE_LIST)))
+THE_BASE_DIR_PATH := $(abspath $(dir $(THE_MAKEFILE_FILE_PATH)))
+THE_BIN_DIR_PATH := $(THE_BASE_DIR_PATH)/bin
+THE_MAK_DIR_PATH := $(THE_BASE_DIR_PATH)/mak
+
+PATH := $(THE_BIN_DIR_PATH):$(PATH)
+
 
 default: help
 .PHONY: default
 
-help:
-	@echo 'Usage:'
-	@echo '	$$ make [action]'
-	@echo
-	@echo 'Ex:'
-	@echo '	$$ make'
-	@echo '	$$ make help'
-	@echo
-	@echo '	$$ make install'
-	@echo
-	@echo '	$$ make package-install'
-	@echo
-	@echo '	$$ make config-install'
-	@echo
 
-
-.PHONY: help
-
-
-install:
-	@./install.sh
-.PHONY: install
-
-
-package-install:
-	@./package-install.sh
-.PHONY: package-install
-
-
-config-install:
-	@./config-install.sh
-.PHONY: config-install
+include $(THE_MAK_DIR_PATH)/*.mk
