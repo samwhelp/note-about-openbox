@@ -5,8 +5,8 @@
 
 | Spec |
 | --- |
-| [keybind](spec-keybind.md) |
-| [mousebind](spec-mousebind.md) |
+| [keybind](share/doc/spec-keybind.md) |
+| [mousebind](share/doc/spec-mousebind.md) |
 
 
 ## Config File Path
@@ -15,10 +15,10 @@
 
 | Path | Note |
 | --- | --- |
-| [~/.config/openbox/rc.xml](config/openbox/rc.xml) | openbox rc |
-| [~/.config/openbox/menu.xml](config/openbox/menu.xml) | openbox menu |
-| [~/.config/openbox/environment](config/openbox/environment) | openbox environment |
-| [~/.config/openbox/autostart](config/openbox/autostart) | openbox autostart |
+| [~/.config/openbox/rc.xml]rc.xml) | openbox rc |
+| [~/.config/openbox/menu.xml]menu.xml) | openbox menu |
+| [~/.config/openbox/environment]environment) | openbox environment |
+| [~/.config/openbox/autostart]autostart) | openbox autostart |
 
 
 ### System
@@ -34,5 +34,7 @@
 ## Link
 
 * [Openbox](http://openbox.org/)
+* Openbox / [Help:DefaultConfiguration](http://openbox.org/wiki/Help:DefaultConfiguration)
+* Openbox / [Help:Contents](http://openbox.org/wiki/Help:Contents)
 * [Debian Wiki] / [Openbox](https://wiki.debian.org/Openbox)
 * [Arch Wiki] / [Openbox](https://wiki.archlinux.org/title/openbox)
