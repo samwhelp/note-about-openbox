@@ -1,12 +1,12 @@
 ---
-title: 按鍵綁定(move-workspace-mod4-number)
+title: basic-keybind-move-workspace-mod4-number
 nav_order: 2032
 has_children: true
 parent: 設定
 ---
 
 
-# 按鍵綁定(move-workspace-mod4-number)
+# basic-keybind-move-workspace-mod4-number
 
 
 ## 設定檔專案
