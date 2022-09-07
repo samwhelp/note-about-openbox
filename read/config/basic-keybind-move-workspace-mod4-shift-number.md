@@ -16,6 +16,8 @@ parent: 設定
 
 ## 設定檔路徑
 
+### 個人
+
 | 設定檔路徑 |
 | --- |
 | [~/.config/openbox/rc.xml](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-shift-number/rc.xml) |
