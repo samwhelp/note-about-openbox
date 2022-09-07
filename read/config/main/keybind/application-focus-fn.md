@@ -11,7 +11,7 @@ grand_parent: 設定
 
 
 * $ man [wmctrl](http://manpages.ubuntu.com/manpages/jammy/en/man1/wmctrl.1.html)
-* [openbox-focus-ctrl](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/bin/openbox-focus-ctrl)
+* [openbox-focus-ctrl](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/bin/openbox-focus-ctrl)
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/ApplicationFocusFn.php#L3-L26)
 
 

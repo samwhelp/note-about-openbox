@@ -9,9 +9,10 @@ grand_parent: 設定
 
 # 聚焦應用程式 (常用的)
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/share/gen/openbox-gen-rc/Section/Keybind/ApplicationFocusFn.php)
-* [openbox-focus-ctrl](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/plan/config/openbox/bin/openbox-focus-ctrl)
+
 * $ man [wmctrl](http://manpages.ubuntu.com/manpages/jammy/en/man1/wmctrl.1.html)
+* [openbox-focus-ctrl](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/bin/openbox-focus-ctrl)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-shift-number/share/gen/openbox-gen-rc/Section/Keybind/ApplicationFocusFn.php#L3-L26)
 
 
 | 按鍵組合          | 功能           | 執行指令     |
@@ -20,6 +21,9 @@ grand_parent: 設定
 | `Win + 2` | 開啟或聚焦文字編輯器 | `atom` 或是 `wmctrl -x -a atom`     |
 | `Win + 3` | 開啟或聚焦啟網頁瀏覽器 | `firefox` 或是 `wmctrl -x -a firefox`   |
 | `Win + 4` | 開啟或聚焦終端機    | `sakura` 或是 `wmctrl -x -a sakura`    |
+
+
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-shift-number/share/gen/openbox-gen-rc/Section/Keybind/ApplicationFocusFn.php#L31-L54)
 
 
 | 按鍵組合          | 功能           | 執行指令     |
