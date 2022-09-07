@@ -1,6 +1,6 @@
 ---
 title: 預設設定
-nav_order: 2021
+nav_order: 2020
 has_children: false
 parent: 設定
 ---

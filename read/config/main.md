@@ -1,11 +1,13 @@
 ---
 title: 我的設定
-nav_order: 2020
+nav_order: 2021
 has_children: true
 parent: 設定
 ---
 
+
 # 我的設定
+
 
 ## 設定檔專案
 
@@ -31,5 +33,5 @@ parent: 設定
 
 | 說明 |
 | --- |
-| [英文版](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/spec-keybind.md) |
+| [英文版](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/doc/spec-keybind.md) |
 | [中文版](https://samwhelp.github.io/note-about-openbox/read/scenario/main.html) |
