@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 音量控制
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rcSection/Keybind/Volume.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/Volume.php)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |

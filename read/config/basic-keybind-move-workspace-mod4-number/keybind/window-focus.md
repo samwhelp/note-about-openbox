@@ -10,7 +10,7 @@ grand_parent: 設定
 # 視窗聚焦切換
 
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rcSection/Keybind/WindowSwitch.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowSwitch.php)
 
 
 ## 前後聚焦切換
