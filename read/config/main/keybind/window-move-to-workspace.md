@@ -2,7 +2,7 @@
 title: 視窗移到指定工作空間
 nav_order: 5041
 has_children: false
-parent: main
+parent: 我的設定
 grand_parent: 設定
 ---
 

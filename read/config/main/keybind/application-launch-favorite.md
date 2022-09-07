@@ -2,7 +2,7 @@
 title: 開啟應用程式 (常用的)
 nav_order: 5013
 has_children: false
-parent: main
+parent: 我的設定
 grand_parent: 設定
 ---
 

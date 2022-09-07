@@ -2,7 +2,7 @@
 title: 螢幕截圖
 nav_order: 5051
 has_children: false
-parent: main
+parent: 我的設定
 grand_parent: 設定
 ---
 
