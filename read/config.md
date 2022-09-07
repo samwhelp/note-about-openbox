@@ -19,9 +19,13 @@ has_children: true
 
 | 設定檔 | 按鍵綁定 |
 | --- | --- |
-| [我的設定](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox) | [客製](https://samwhelp.github.io/note-about-openbox/read/scenario/main.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/spec-keybind.md)) |
-| [系統預設](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/default/config/openbox) | [預設](https://samwhelp.github.io/note-about-openbox/read/scenario/default.html) ([英文版說明](http://openbox.org/wiki/Help:Contents)) |
-
+| [系統預設](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/default) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/default/keybind.html) ([英文版說明](http://openbox.org/wiki/Help:DefaultConfiguration)) |
+| [我的設定](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/main/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/spec-keybind.md)) |
+| [無按鍵綁定](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-no-keybind) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/basic-no-keybind/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/basic-no-keybind/spec-keybind.md)) |
+| [basic-keybind-move-workspace-mod4-number](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/basic-keybind-move-workspace-mod4-number/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/spec-keybind.md)) |
+| [basic-keybind-move-workspace-mod4-shift-number](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-shift-number) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/basic-keybind-move-workspace-mod4-shift-number/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-shift-number/spec-keybind.md)) |
+| [basic-keybind-less-mod1](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-less-mod1) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/basic-keybind-less-mod1/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/basic-keybind-less-mod1/spec-keybind.md)) |
+| [basic-keybind-only-mod4](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-only-mod4) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/basic-keybind-only-mod4/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/basic-keybind-only-mod4/spec-keybind.md)) |
 
 
 ## 設定檔官方文件說明
