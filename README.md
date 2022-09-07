@@ -47,6 +47,9 @@
 
 ## 相關筆記
 
+* [tint2 探索筆記](https://samwhelp.github.io/note-about-tint2/)
+* [fzf 探索筆記](https://github.com/samwhelp/note-about-fzf)
+* [wallpaper 相關筆記](https://github.com/samwhelp/note-about-wallpaper)
 * [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
 * [mabox 探索筆記](https://samwhelp.github.io/note-about-mabox/)
