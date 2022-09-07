@@ -42,7 +42,7 @@
 | --- | --- | --- |
 | [wallpaper-select-feh](https://samwhelp.github.io/note-about-fzf/read/project/wallpaper-select/wallpaper-select-feh) | `wallpaper-select-feh fzf` | 設定桌面圖片 |
 | [xfteditor](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/) | `xfted file_path` | 輔助「檔案管理器」，右鍵開啟檔案到「xfce-terminal」的「新頁籤(Tab)」 |
-| [openbox-gen-rc](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/config/openbox/share/gen/openbox-gen-rc) | `make rc` | 輔助產生「rc.xml」 |
+| [openbox-gen-rc](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc) | `make rc` | 輔助產生「rc.xml」 |
 
 
 ## 相關筆記
