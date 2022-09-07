@@ -9,6 +9,14 @@ parent: 設定
 # 我的設定
 
 
+## 按鍵綁定
+
+| 說明 |
+| --- |
+| [中文版](https://samwhelp.github.io/note-about-openbox/read/scenario/main.html) |
+| [英文版](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/doc/spec-keybind.md) |
+
+
 ## 設定檔專案
 
 * [main](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main)
@@ -23,18 +31,14 @@ parent: 設定
 
 ## 設定檔路徑
 
-* [~/.config/openbox/rc.xml](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/rc.xml)
-* [~/.config/openbox/menu.xml](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/menu.xml)
-* [~/.config/openbox/environment](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/environment)
-* [~/.config/openbox/autostart](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/config/openbox/autostart)
+### 個人
 
-
-## 按鍵綁定
-
-| 說明 |
+| 設定檔路徑 |
 | --- |
-| [中文版](https://samwhelp.github.io/note-about-openbox/read/scenario/main.html) |
-| [英文版](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/doc/spec-keybind.md) |
+| [~/.config/openbox/rc.xml](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/rc.xml) |
+| [~/.config/openbox/menu.xml](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/menu.xml) |
+| [~/.config/openbox/environment](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/environment) |
+| [~/.config/openbox/autostart](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/autostart) |
 
 
 ## Link
