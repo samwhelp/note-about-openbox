@@ -40,7 +40,7 @@ grand_parent: 設定
 
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/GoToDesktop.php#L7)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main/share/gen/openbox-gen-rc/Section/Keybind/WorkspaceSwitch.php#L8-L18)
 
 
 | 按鍵組合  | 功能                 | 執行指令                   |

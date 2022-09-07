@@ -24,7 +24,7 @@ grand_parent: 設定
 
 ## 關閉視窗
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowClose.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowClose.php#L3-L5)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
@@ -33,7 +33,7 @@ grand_parent: 設定
 
 ## 全螢幕
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleFullscreen.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleFullscreen.php#L7-L9)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -42,7 +42,7 @@ grand_parent: 設定
 
 ## 最大化
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleMaximize.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleMaximize.php#L3-L7)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -52,7 +52,7 @@ grand_parent: 設定
 
 ## 最小化
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowIconify.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowIconify.php#L3-L5)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -61,7 +61,7 @@ grand_parent: 設定
 
 ## 開始視窗移動
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowBeginMove.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowBeginMove.php#L4-L7)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -72,7 +72,7 @@ grand_parent: 設定
 
 ## 開始視窗更改大小
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowBeginResize.php#L3)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowBeginResize.php#L4-L7)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -83,7 +83,7 @@ grand_parent: 設定
 
 ## 永遠在最上方
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleAlwaysOnTop.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleAlwaysOnTop.php#L3-L5)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -92,7 +92,7 @@ grand_parent: 設定
 
 ## 內容區塊收合
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleShade.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleShade.php#L3-L5)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -104,7 +104,7 @@ grand_parent: 設定
 
 ## 切換顯示隱藏視窗裝飾
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleDecorations.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowToggleDecorations.php#L3-L5)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -114,7 +114,7 @@ grand_parent: 設定
 
 ## 將下方視窗移上來
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowRaiseLower.php)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WindowRaiseLower.php#L3-L5)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |

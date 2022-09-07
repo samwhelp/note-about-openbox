@@ -23,7 +23,7 @@ grand_parent: 設定
 
 ## 指定切換
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WorkspaceSwitch.php#L80)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WorkspaceSwitch.php#L81-L139)
 
 | 按鍵組合  | 功能                    | 執行指令                       |
 | --------- | ----------------------- | ------------------------------ |
@@ -38,9 +38,10 @@ grand_parent: 設定
 | `Alt + 9` | 切換到工作空間 4        | `GoToDesktop` (openbox 內建) |
 | `Alt + 0` | 切換到工作空間 5        | `GoToDesktop` (openbox 內建) |
 
+
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/GoToDesktop.php#L7)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/basic-keybind-move-workspace-mod4-number/share/gen/openbox-gen-rc/Section/Keybind/WorkspaceSwitch.php#L8-L18)
 
 
 | 按鍵組合  | 功能                 | 執行指令                   |
