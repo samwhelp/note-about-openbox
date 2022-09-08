@@ -46,5 +46,5 @@ parent: 設定
 * [Openbox](http://openbox.org/)
 * Openbox / [Help:DefaultConfiguration](http://openbox.org/wiki/Help:DefaultConfiguration)
 * Openbox / [Help:Contents](http://openbox.org/wiki/Help:Contents)
-* [Debian Wiki] / [Openbox](https://wiki.debian.org/Openbox)
-* [Arch Wiki] / [Openbox](https://wiki.archlinux.org/title/openbox)
+* Debian Wiki / [Openbox](https://wiki.debian.org/Openbox)
+* Arch Wiki / [Openbox](https://wiki.archlinux.org/title/openbox)
