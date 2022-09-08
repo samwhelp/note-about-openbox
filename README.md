@@ -25,7 +25,7 @@
 | 設定檔 | 按鍵綁定 |
 | --- | --- |
 | [系統預設](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/default) | ([英文版說明](http://openbox.org/wiki/Help:DefaultConfiguration)) |
-| [我的設定](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/main/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/spec-keybind.md)) |
+| [我的設定](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/main/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/doc/spec-keybind.md)) |
 
 
 ### 專案
