@@ -129,3 +129,30 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
     </context>
   </mouse>
 ```
+
+
+
+
+## openbox / adjustment / mousebind / mouse left click on desktop to toggle show desktop
+
+> mouse left click on desktop to toggle show desktop
+
+
+### context Root / orginal
+
+* [config snippet](asset/orginal/rc.xml#L593-L601)
+
+
+### context Root / adjust
+
+* [config snippet](rc.xml#L603-L605)
+
+``` xml
+  <mouse>
+    <context name="Root">
+      <mousebind button="Left" action="Press">
+        <action name="ToggleShowDesktop"/>
+      </mousebind>
+    </context>
+  </mouse>
+```
