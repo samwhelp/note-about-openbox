@@ -8,7 +8,7 @@
 | File |
 | --- |
 | [openbox-3.6.1.tar.xz](http://openbox.org/dist/openbox/openbox-3.6.1.tar.xz) |
-| [archcraft-2022.09.16-x86_64.iso.sha256sum](http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz) |
+| [openbox-3.6.1.tar.gz](http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz) |
 
 
 ### download.sh
