@@ -600,6 +600,9 @@
   </context>
 
   <context name="Root">
+    <mousebind button="Left" action="Press">
+      <action name="ToggleShowDesktop"/>
+    </mousebind>
     <!-- Menus -->
     <mousebind button="Middle" action="Press">
       <action name="ShowMenu"><menu>client-list-combined-menu</menu></action>
