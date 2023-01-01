@@ -34,12 +34,12 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Titlebar / orginal
 
-* [config snippet](asset/orginal/rc.xml#L696-L698)
+* [config snippet](asset/orginal/rc.xml#L374-L376)
 
 ``` xml
   <mouse>
     <context name="Titlebar">
-      <mousebind action="Drag" button="Left">
+      <mousebind button="Left" action="Drag">
         <action name="Move"/>
       </mousebind>
     </context>
@@ -48,12 +48,12 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Titlebar / adjust
 
-* [config snippet](rc.xml#L698-L701)
+* [config snippet](rc.xml#L375-L378)
 
 ``` xml
   <mouse>
     <context name="Titlebar">
-      <mousebind action="Drag" button="Left">
+      <mousebind button="Left" action="Drag">
         <action name="UnmaximizeFull"/>
         <action name="Move"/>
       </mousebind>
@@ -66,14 +66,11 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Frame / orginal
 
-* [config snippet](asset/orginal/rc.xml#L653-L658)
+* [config snippet](asset/orginal/rc.xml#L334-L336)
 
 ``` xml
   <mouse>
     <context name="Frame">
-      <mousebind button="W-Left" action="Drag">
-        <action name="Move"/>
-      </mousebind>
       <mousebind button="A-Left" action="Drag">
         <action name="Move"/>
       </mousebind>
@@ -83,15 +80,11 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Frame / adjust
 
-* [config snippet](rc.xml#L653-L660)
+* [config snippet](rc.xml#L334-L337)
 
 ``` xml
   <mouse>
     <context name="Frame">
-      <mousebind button="W-Left" action="Drag">
-        <action name="UnmaximizeFull"/>
-        <action name="Move"/>
-      </mousebind>
       <mousebind button="A-Left" action="Drag">
         <action name="UnmaximizeFull"/>
         <action name="Move"/>
