@@ -27,7 +27,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 ```
 
 
-## openbox / adjustment / mousebind
+## openbox / adjustment / mousebind / Drag window to move, when window maximized.
 
 > Drag window to move, when window maximized.
 
@@ -88,6 +88,43 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
       <mousebind button="A-Left" action="Drag">
         <action name="UnmaximizeFull"/>
         <action name="Move"/>
+      </mousebind>
+    </context>
+  </mouse>
+```
+
+
+
+## openbox / adjustment / mousebind / Drag window to move, keep shaded, when window shaded.
+
+> Drag window to move, keep shaded, when window shaded.
+
+### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / orginal
+
+* [config snippet](asset/orginal/rc.xml#L404-L408)
+
+``` xml
+  <mouse>
+    <context name="Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner">
+      <mousebind button="Left" action="Press">
+        <action name="Focus"/>
+        <action name="Raise"/>
+        <action name="Unshade"/>
+      </mousebind>
+    </context>
+  </mouse>
+```
+
+### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / adjust
+
+* [config snippet](rc.xml#L414-L417)
+
+``` xml
+  <mouse>
+    <context name="Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner">
+      <mousebind button="Left" action="Press">
+        <action name="Focus"/>
+        <action name="Raise"/>
       </mousebind>
     </context>
   </mouse>
