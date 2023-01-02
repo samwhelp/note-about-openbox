@@ -51,7 +51,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / adjust
 
-* [config snippet](rc.xml#L414-L417)
+* [config snippet](rc.xml#L404-L415)
 
 ``` xml
   <mouse>
