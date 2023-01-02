@@ -1,6 +1,6 @@
 ---
 title: 設定在視窗最大化時，也能拖曳視窗移動
-nav_order: 7011
+nav_order: 7010
 has_children: false
 parent: 如何
 ---
