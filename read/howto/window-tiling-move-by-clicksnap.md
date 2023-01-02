@@ -1,7 +1,7 @@
 ---
 title: 搭配使用「clicksnap」平鋪移動視窗
 nav_order: 7020
-has_children: true
+has_children: false
 parent: 如何
 ---
 

@@ -29,9 +29,10 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 
 
-## openbox / adjustment / mousebind / Drag window to move, keep shaded, when window shaded.
+## openbox / adjustment / mousebind
 
 > Drag window to move, keep shaded, when window shaded.
+
 
 ### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / orginal
 
