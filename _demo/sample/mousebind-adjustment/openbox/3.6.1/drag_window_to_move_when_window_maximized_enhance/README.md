@@ -48,14 +48,26 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Titlebar / adjust
 
-* [config snippet](rc.xml#L375-L378)
+* [config snippet](rc.xml#L387-L402)
 
 ``` xml
   <mouse>
     <context name="Titlebar">
       <mousebind button="Left" action="Drag">
-        <action name="UnmaximizeFull"/>
-        <action name="Move"/>
+        <action name="if">
+          <maximized>yes</maximized>
+          <then>
+            <action name="UnmaximizeFull"/>
+            <action name="MoveResizeTo">
+              <x>center</x>
+              <y>current</y>
+            </action>
+            <action name="Move"/>
+          </then>
+          <else>
+            <action name="Move"/>
+          </else>
+        </action>
       </mousebind>
     </context>
   </mouse>
@@ -80,15 +92,33 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Frame / adjust
 
-* [config snippet](rc.xml#L334-L337)
+* [config snippet](rc.xml#L334-L349)
 
 ``` xml
   <mouse>
     <context name="Frame">
       <mousebind button="A-Left" action="Drag">
-        <action name="UnmaximizeFull"/>
-        <action name="Move"/>
+        <action name="if">
+          <maximized>yes</maximized>
+          <then>
+            <action name="UnmaximizeFull"/>
+            <action name="MoveResizeTo">
+              <x>center</x>
+              <y>current</y>
+            </action>
+            <action name="Move"/>
+          </then>
+          <else>
+            <action name="Move"/>
+          </else>
+        </action>
       </mousebind>
     </context>
   </mouse>
 ```
+
+
+## Link
+
+* archcraft-openbox / [rc.xml](https://github.com/archcraft-os/archcraft-openbox/blob/main/files/rc.xml#L804-L820)
+* note-about-openbox / [drag_window_to_move_when_window_maximized](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized)

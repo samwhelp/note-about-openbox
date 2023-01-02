@@ -92,3 +92,8 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
     </context>
   </mouse>
 ```
+
+
+## Link
+
+* note-about-opnebox / [drag_window_to_move_when_window_maximized_enhance](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance)
