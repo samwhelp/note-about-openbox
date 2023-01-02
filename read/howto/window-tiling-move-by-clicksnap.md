@@ -43,8 +43,8 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 加入下面的內容
 
-```
-	<mousebind action="Press" button="C-Left">
+``` xml
+	<mousebind action="Press" button="A-Left">
 		<action name="UnmaximizeFull"/>
 		<action name="Execute">
 			<command>clicksnap</command>
@@ -56,9 +56,9 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 類似如下面的片段
 
-```
+``` xml
 <context name="Frame">
-	<mousebind action="Press" button="C-Left">
+	<mousebind action="Press" button="A-Left">
 		<action name="UnmaximizeFull"/>
 		<action name="Execute">
 			<command>clicksnap</command>
@@ -79,10 +79,11 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 
 | 設定                                         | 動作                        |
 | -------------------------------------------- | -------------------------- |
-| `<mousebind action="Press" button="S-Left">` | `Shift + Mouse Left Click` |
-| `<mousebind action="Press" button="C-Left">` | `Ctrl + Mouse Left Click`  |
 | `<mousebind action="Press" button="A-Left">` | `Alt + Mouse Left Click`   |
 | `<mousebind action="Press" button="W-Left">` | `Win + Mouse Left Click`   |
+| `<mousebind action="Press" button="S-Left">` | `Shift + Mouse Left Click` |
+| `<mousebind action="Press" button="C-Left">` | `Ctrl + Mouse Left Click`  |
+
 
 * Openbox Wiki / Help:Bindings / [1.1.1.1 Modifiers](http://openbox.org/wiki/Help:Bindings#Modifiers)
 
