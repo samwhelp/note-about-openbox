@@ -7,20 +7,32 @@
 ## 主題
 
 * [入門](#入門)
+* [如何](#如何)
 * [設定](#設定)
 * [專案](#專案)
 * [輔助工具](#輔助工具)
 * [相關筆記](#相關筆記)
 
 
-### 入門
+## 入門
 
 | 議題 |
 | --- |
 | [入門](https://samwhelp.github.io/note-about-openbox/read/start.html) |
 
 
-### 設定
+## 如何
+
+| 議題 |
+| --- |
+| [設定在視窗最大化時，也能拖曳視窗移動](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/drag_window_to_move_when_window_maximized.html) |
+| [設定在視窗最大化時，也能拖曳視窗移動 (加強版)](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/drag_window_to_move_when_window_maximized_enhance.html) |
+| [設定在視窗隱藏內容區塊時，拖曳視窗還能保持隱藏狀態](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/drag_window_to_move_keep_shaded_when_window_shaded.html) |
+| [設定在桌面按下滑鼠左鍵，切換顯示桌面](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/mouse_left_click_on_desktop_to_toggle_show_desktop.html) |
+
+
+
+## 設定
 
 | 設定檔 | 按鍵綁定 |
 | --- | --- |
@@ -28,7 +40,7 @@
 | [我的設定](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/config/openbox-config/main) | [中文版說明](https://samwhelp.github.io/note-about-openbox/read/config/main/keybind.html) ([英文版說明](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/config/openbox-config/main/share/doc/spec-keybind.md)) |
 
 
-### 專案
+## 專案
 
 | 工具 | 簡介 |
 | --- | --- |
@@ -36,7 +48,7 @@
 | [openboxrc-ctrl](https://samwhelp.github.io/note-about-openbox/read/project/openboxrc-profile/openboxrc-ctrl.html) | 用來輔助「切換」openbox config |
 
 
-### 輔助工具
+## 輔助工具
 
 | 工具 | 指令 | 功能 |
 | --- | --- | --- |
