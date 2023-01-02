@@ -1,12 +1,12 @@
 ---
-title: drag_window_to_move_when_window_maximized
+title: 設定在視窗最大化時，也能拖曳視窗移動
 nav_order: 7013
 has_children: true
 parent: 如何
 ---
 
 
-# drag_window_to_move_when_window_maximized
+# 設定在視窗最大化時，也能拖曳視窗移動
 
 
 ## 範例

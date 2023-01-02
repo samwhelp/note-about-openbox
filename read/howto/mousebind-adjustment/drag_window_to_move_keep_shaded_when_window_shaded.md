@@ -1,12 +1,12 @@
 ---
-title: drag_window_to_move_keep_shaded_when_window_shaded
+title: 設定在視窗隱藏內容區塊時，拖曳視窗還能保持隱藏狀態
 nav_order: 7012
 has_children: true
 parent: 如何
 ---
 
 
-# drag_window_to_move_keep_shaded_when_window_shaded
+# 設定在視窗隱藏內容區塊時，拖曳視窗還能保持隱藏狀態
 
 
 ## 範例

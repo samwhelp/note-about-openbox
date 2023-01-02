@@ -1,12 +1,12 @@
 ---
-title: mouse_left_click_on_desktop_to_toggle_show_desktop
+title: 設定在桌面按下滑鼠左鍵，切換顯示桌面
 nav_order: 7011
 has_children: true
 parent: 如何
 ---
 
 
-# mouse_left_click_on_desktop_to_toggle_show_desktop
+# 設定在桌面按下滑鼠左鍵，切換顯示桌面
 
 
 ## 範例
