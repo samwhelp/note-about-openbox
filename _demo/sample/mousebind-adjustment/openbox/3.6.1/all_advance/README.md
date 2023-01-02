@@ -48,7 +48,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Titlebar / adjust
 
-* [config snippet](rc.xml#L387-L402)
+* [config snippet](rc.xml#L388-L404)
 
 ``` xml
   <mouse>
@@ -65,6 +65,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
             <action name="Move"/>
           </then>
           <else>
+            <action name="UnmaximizeFull"/>
             <action name="Move"/>
           </else>
         </action>
@@ -92,7 +93,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Frame / adjust
 
-* [config snippet](rc.xml#L334-L349)
+* [config snippet](rc.xml#L334-L350)
 
 ``` xml
   <mouse>
@@ -109,6 +110,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
             <action name="Move"/>
           </then>
           <else>
+            <action name="UnmaximizeFull"/>
             <action name="Move"/>
           </else>
         </action>
@@ -141,7 +143,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / adjust
 
-* [config snippet](rc.xml#L438-L441)
+* [config snippet](rc.xml#L440-L443)
 
 ``` xml
   <mouse>
@@ -169,7 +171,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Root / adjust
 
-* [config snippet](rc.xml#L627-L629)
+* [config snippet](rc.xml#L629-L631)
 
 ``` xml
   <mouse>
