@@ -41,7 +41,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Root / adjust
 
-* [config snippet](rc.xml#L603-L605)
+* [config snippet](rc.xml#L594-L596)
 
 ``` xml
   <mouse>
