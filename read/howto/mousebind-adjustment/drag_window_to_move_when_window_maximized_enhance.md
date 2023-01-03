@@ -29,9 +29,9 @@ parent: 如何
 > Drag window to move, when window maximized.
 
 
-### context Titlebar / orginal
+### context Titlebar / 原本的設定片段
 
-* [config snippet](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance/asset/orginal/rc.xml#L374-L376)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance/asset/orginal/rc.xml#L374-L376)
 
 ``` xml
   <mouse>
@@ -43,9 +43,9 @@ parent: 如何
   </mouse>
 ```
 
-### context Titlebar / adjust
+### context Titlebar / 調整過的設定片段
 
-* [config snippet](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance/rc.xml#L387-L402)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance/rc.xml#L387-L402)
 
 ``` xml
   <mouse>
@@ -73,9 +73,9 @@ parent: 如何
 
 
 
-### context Frame / orginal
+### context Frame / 原本的設定片段
 
-* [config snippet](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance/asset/orginal/rc.xml#L334-L336)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance/asset/orginal/rc.xml#L334-L336)
 
 ``` xml
   <mouse>
@@ -87,9 +87,9 @@ parent: 如何
   </mouse>
 ```
 
-### context Frame / adjust
+### context Frame / 調整過的設定片段
 
-* [config snippet](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance/rc.xml#L334-L349)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized_enhance/rc.xml#L334-L349)
 
 ``` xml
   <mouse>

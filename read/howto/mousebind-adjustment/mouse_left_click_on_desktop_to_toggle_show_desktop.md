@@ -23,14 +23,14 @@ parent: 如何
 > mouse left click on desktop to toggle show desktop
 
 
-### context Root / orginal
+### context Root / 原本的設定片段
 
-* [config snippet](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/mouse_left_click_on_desktop_to_toggle_show_desktop/asset/orginal/rc.xml#L593-L601)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/mouse_left_click_on_desktop_to_toggle_show_desktop/asset/orginal/rc.xml#L593-L601)
 
 
-### context Root / adjust
+### context Root / 調整過的設定片段
 
-* [config snippet](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/mouse_left_click_on_desktop_to_toggle_show_desktop/rc.xml#L594-L596)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/mouse_left_click_on_desktop_to_toggle_show_desktop/rc.xml#L594-L596)
 
 ``` xml
   <mouse>
