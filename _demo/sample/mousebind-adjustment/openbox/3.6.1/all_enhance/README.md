@@ -157,6 +157,83 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 
 
+## openbox / adjustment / mousebind / mouse_middle_scroll_on_titlebar_keep_focus_when_window_shading
+
+> Mouse middle scroll on titlebar, keep focus, when window shading
+
+
+### context Titlebar / orginal
+
+* [config snippet](asset/orginal/rc.xml#L381-L400)
+
+``` xml
+  <mouse>
+    <context name="Titlebar">
+
+      <mousebind button="Up" action="Click">
+        <action name="if">
+          <shaded>no</shaded>
+          <then>
+            <action name="Shade"/>
+            <action name="FocusToBottom"/>
+            <action name="Unfocus"/>
+            <action name="Lower"/>
+          </then>
+        </action>
+      </mousebind>
+      <mousebind button="Down" action="Click">
+        <action name="if">
+          <shaded>yes</shaded>
+          <then>
+            <action name="Unshade"/>
+            <action name="Raise"/>
+          </then>
+        </action>
+      </mousebind>
+    </context>
+
+  </mouse>
+```
+
+
+### context Titlebar / adjust
+
+* [config snippet](rc.xml#L381-L402)
+
+``` xml
+  <mouse>
+    <context name="Titlebar">
+
+      <mousebind button="Up" action="Click">
+        <action name="if">
+          <shaded>no</shaded>
+          <then>
+            <action name="Shade"/>
+            <!--
+            <action name="FocusToBottom"/>
+            <action name="Unfocus"/>
+            <action name="Lower"/>
+            //-->
+          </then>
+        </action>
+      </mousebind>
+      <mousebind button="Down" action="Click">
+        <action name="if">
+          <shaded>yes</shaded>
+          <then>
+            <action name="Unshade"/>
+            <action name="Raise"/>
+          </then>
+        </action>
+      </mousebind>
+
+    </context>
+  </mouse>
+```
+
+
+
+
 ## openbox / adjustment / mousebind / mouse left click on desktop to toggle show desktop
 
 > mouse left click on desktop to toggle show desktop

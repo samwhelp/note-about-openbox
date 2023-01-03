@@ -31,7 +31,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ## openbox / adjustment / mousebind
 
-> Mouse middle scroll on titlebar, keep focus, when_window_shading
+> Mouse middle scroll on titlebar, keep focus, when window shading
 
 
 ### context Titlebar / orginal
