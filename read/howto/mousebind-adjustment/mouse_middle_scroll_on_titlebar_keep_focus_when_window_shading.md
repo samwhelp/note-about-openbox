@@ -91,3 +91,8 @@ parent: 如何
     </context>
   </mouse>
 ```
+
+
+## 相關討論
+
+* archcraft-openbox / [[Adjustment] Mouse middle scroll on titlebar, keep focus, when window shading](https://github.com/archcraft-os/archcraft-openbox/issues/12)
