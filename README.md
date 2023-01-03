@@ -23,7 +23,7 @@
 
 ## 如何
 
-| 議題 |
+| 如何 |
 | --- |
 | [設定在視窗最大化時，也能拖曳視窗移動](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/drag_window_to_move_when_window_maximized.html) |
 | [設定在視窗最大化時，也能拖曳視窗移動 (加強版)](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/drag_window_to_move_when_window_maximized_enhance.html) |
