@@ -11,9 +11,13 @@ parent: 如何
 
 ## 相關連結
 
-* [https://git.maboxlinux.org/napcok/clicksnap](https://git.maboxlinux.org/napcok/clicksnap)
-* [https://github.com/napcok/clicksnap](https://github.com/napcok/clicksnap)
+* GitHub / [clicksnap](https://github.com/napcok/clicksnap)
+* Gitea / [clicksnap](https://git.maboxlinux.org/napcok/clicksnap)
+* Gitea / [snapwin](https://git.maboxlinux.org/Mabox/mabox-tools/src/branch/master/bin/snapwin) / [config](https://git.maboxlinux.org/Mabox/iso-profiles/src/branch/master/mabox-linux/desktop-overlay/etc/skel/.config/openbox/rc.xml#L1020)
+* Gitea / [deskgrid](https://git.maboxlinux.org/Mabox/mabox-tools/src/branch/master/bin/deskgrid) / [config](https://git.maboxlinux.org/Mabox/iso-profiles/src/branch/master/mabox-linux/desktop-overlay/etc/skel/.config/openbox/rc.xml#L1026)
+* Gitea / [drawgrid](https://git.maboxlinux.org/Mabox/mabox-tools/src/branch/master/bin/drawgrid)
 * Openbox Wiki / [Help:Bindings](http://openbox.org/wiki/Help:Bindings#Mouse_bindings)
+
 
 ## 安裝腳本
 
