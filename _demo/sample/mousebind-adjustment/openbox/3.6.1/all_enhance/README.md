@@ -27,7 +27,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 ```
 
 
-## openbox / adjustment / mousebind / Drag window to move, when window maximized.
+## openbox / adjustment / mousebind / drag_window_to_move_when_window_maximized
 
 > Drag window to move, when window maximized.
 
@@ -119,7 +119,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 
 
-## openbox / adjustment / mousebind / Drag window to move, keep shaded, when window shaded.
+## openbox / adjustment / mousebind / drag_window_to_move_keep_shaded_when_window_shaded
 
 > Drag window to move, keep shaded, when window shaded.
 
@@ -234,7 +234,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 
 
-## openbox / adjustment / mousebind / mouse left click on desktop to toggle show desktop
+## openbox / adjustment / mousebind / mouse_left_click_on_desktop_to_toggle_show_desktop
 
 > mouse left click on desktop to toggle show desktop
 
