@@ -23,7 +23,7 @@ parent: 如何
 > Drag window to move, when window maximized.
 
 
-### context Titlebar / 原本的設定片段
+### context Titlebar / 一開始的設定片段
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized/asset/orginal/rc.xml#L374-L376)
 
@@ -55,7 +55,7 @@ parent: 如何
 
 
 
-### context Frame / 原本的設定片段
+### context Frame / 一開始的設定片段
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_when_window_maximized/asset/orginal/rc.xml#L334-L336)
 

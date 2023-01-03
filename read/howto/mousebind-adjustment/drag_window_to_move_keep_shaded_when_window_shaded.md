@@ -23,7 +23,7 @@ parent: 如何
 > Drag window to move, keep shaded, when window shaded.
 
 
-### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / 原本的設定片段
+### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / 一開始的設定片段
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/drag_window_to_move_keep_shaded_when_window_shaded/asset/orginal/rc.xml#L404-L408#L404-L408)
 

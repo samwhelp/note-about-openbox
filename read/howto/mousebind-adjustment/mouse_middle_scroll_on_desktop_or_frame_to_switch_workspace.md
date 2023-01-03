@@ -23,7 +23,7 @@ parent: 如何
 
 > Mouse middle scroll on desktop or frame to switch workspace
 
-### context Desktop / 原本的設定片段
+### context Desktop / 一開始的設定片段
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/all_enhance/asset/orginal/rc.xml#L353-L358)
 
@@ -52,7 +52,7 @@ parent: 如何
 
 
 
-### context Frame / 原本的設定片段
+### context Frame / 一開始的設定片段
 
 * [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/all_enhance/asset/orginal/rc.xml#L563-L575)
 
