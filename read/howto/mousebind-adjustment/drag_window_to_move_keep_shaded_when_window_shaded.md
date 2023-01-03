@@ -53,3 +53,8 @@ parent: 如何
     </context>
   </mouse>
 ```
+
+
+## 相關討論
+
+* archcraft-openbox / [[Adjustment] Drag window to move, keep shaded, when window shaded.](https://github.com/archcraft-os/archcraft-openbox/issues/9)

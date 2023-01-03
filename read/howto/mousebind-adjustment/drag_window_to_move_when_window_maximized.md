@@ -83,3 +83,10 @@ parent: 如何
     </context>
   </mouse>
 ```
+
+
+## 相關討論
+
+* archcraft-openbox / [[Adjustment] Drag window to move, when window maximized](https://github.com/archcraft-os/archcraft-openbox/issues/8)
+* archcraft-lxde / [[Adjustment] Drag window to move, when window maximized](https://github.com/archcraft-os/archcraft-lxde/issues/1)
+* mabox / [[about mabox mousebind] Drag window to move, when window maximized.](https://github.com/napcok/clicksnap/issues/2)
