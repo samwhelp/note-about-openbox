@@ -41,3 +41,10 @@ parent: 如何
     </context>
   </mouse>
 ```
+
+
+## 相關討論
+
+* ubuntu-tw / [# 17](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=362156#forumpost362156) - openbox 配其他桌面的套件太多 你會覺得乾脆就裝那個桌面就好
+* archcraft-openbox / [[Adjustment] Drag window to move, when window maximized](https://github.com/archcraft-os/archcraft-openbox/issues/8)
+* archcraft-openbox / [[Proposal] Desktop Mousebind](https://github.com/archcraft-os/archcraft-openbox/issues/1)
