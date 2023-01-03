@@ -71,3 +71,8 @@ parent: 如何
   </mouse>
 ```
 
+
+## 相關討論
+
+* archcraft-openbox / [[Adjustment] Mouse middle scroll on desktop or frame to switch workspace](https://github.com/archcraft-os/archcraft-openbox/issues/11)
+
