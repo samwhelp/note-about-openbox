@@ -25,7 +25,7 @@ parent: 如何
 
 ### context Desktop / 原本的設定片段
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/all_enhance/asset/orginal/rc.xml#L353-L356)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/all_enhance/asset/orginal/rc.xml#L353-L358)
 
 ``` xml
   <mouse>
