@@ -45,6 +45,6 @@ parent: 如何
 
 ## 相關討論
 
-* ubuntu-tw / [# 17](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=362156#forumpost362156) - openbox 配其他桌面的套件太多 你會覺得乾脆就裝那個桌面就好
+* ubuntu-tw / [回覆 #17](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=362156#forumpost362156) - openbox 配其他桌面的套件太多 你會覺得乾脆就裝那個桌面就好
 * archcraft-openbox / [[Adjustment] Mouse left click on desktop to toggle show desktop](https://github.com/archcraft-os/archcraft-openbox/issues/10)
 * archcraft-openbox / [[Proposal] Desktop Mousebind](https://github.com/archcraft-os/archcraft-openbox/issues/1)
