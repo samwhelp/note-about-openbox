@@ -143,7 +143,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Titlebar Top Right Bottom Left TLCorner TRCorner BRCorner BLCorner / adjust
 
-* [config snippet](rc.xml#L440-L443)
+* [config snippet](rc.xml#L463-L466)
 
 ``` xml
   <mouse>
@@ -200,7 +200,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Titlebar / adjust
 
-* [config snippet](rc.xml#L381-L402)
+* [config snippet](rc.xml#L409-L430)
 
 ``` xml
   <mouse>
@@ -248,7 +248,7 @@ http://openbox.org/dist/openbox/openbox-3.6.1.tar.gz.asc
 
 ### context Root / adjust
 
-* [config snippet](rc.xml#L629-L631)
+* [config snippet](rc.xml#L652-L654)
 
 ``` xml
   <mouse>
