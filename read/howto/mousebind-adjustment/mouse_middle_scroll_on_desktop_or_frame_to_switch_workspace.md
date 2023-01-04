@@ -14,7 +14,7 @@ parent: 如何
 
 | 範例 |
 | --- |
-| [all_enhance](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/all_enhance) |
+| [mouse_middle_scroll_on_desktop_or_frame_to_switch_workspace](https://github.com/samwhelp/note-about-openbox/tree/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/mouse_middle_scroll_on_desktop_or_frame_to_switch_workspace) |
 
 > 原本預設的設定檔，就有設定這個功能，所以不需要特別去修改，以下只是列出關鍵的設定片段。
 
