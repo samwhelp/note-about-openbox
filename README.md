@@ -31,7 +31,7 @@
 | [設定在視窗標題列，滑鼠中鍵滾動，切換隱藏內容區塊時，保持聚焦](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/mouse_middle_scroll_on_titlebar_keep_focus_when_window_shading.html) |
 | [設定在桌面按下滑鼠左鍵，切換顯示桌面](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/mouse_left_click_on_desktop_to_toggle_show_desktop.html) |
 | [設定在桌面或視窗，滑鼠中鍵滾動，切換工作空間](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/mouse_middle_scroll_on_desktop_or_frame_to_switch_workspace.html) |
-
+| [設定在視窗，滑鼠中鍵滾動，將視窗移動到工作空間](https://samwhelp.github.io/note-about-openbox/read/howto/mousebind-adjustment/mouse_middle_scroll_on_frame_let_window_move_to_workspace.html) |
 
 
 ## 設定
