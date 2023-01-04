@@ -26,7 +26,7 @@ parent: 如何
 
 ### context Frame / 一開始的設定片段
 
-* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/mouse_middle_scroll_on_desktop_or_frame_to_switch_workspace/asset/orginal/rc.xml#L563-L575)
+* [設定片段](https://github.com/samwhelp/note-about-openbox/blob/gh-pages/_demo/sample/mousebind-adjustment/openbox/3.6.1/mouse_middle_scroll_on_desktop_or_frame_to_switch_workspace/asset/orginal/rc.xml#L365-L369)
 
 ``` xml
   <mouse>
