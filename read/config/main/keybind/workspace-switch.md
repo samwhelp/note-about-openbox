@@ -27,16 +27,16 @@ grand_parent: 設定
 
 | 按鍵組合  | 功能                    | 執行指令                       |
 | --------- | ----------------------- | ------------------------------ |
-| `Alt + 1` | 切換到工作空間 1 (File) | `GoToDesktop` (openbox 內建) |
-| `Alt + 2` | 切換到工作空間 2 (Edit) | `GoToDesktop` (openbox 內建) |
-| `Alt + 3` | 切換到工作空間 3 (Web)  | `GoToDesktop` (openbox 內建) |
-| `Alt + 4` | 切換到工作空間 4 (Term) | `GoToDesktop` (openbox 內建) |
-| `Alt + 5` | 切換到工作空間 5 (Misc) | `GoToDesktop` (openbox 內建) |
-| `Alt + 6` | 切換到工作空間 1        | `GoToDesktop` (openbox 內建) |
-| `Alt + 7` | 切換到工作空間 2        | `GoToDesktop` (openbox 內建) |
-| `Alt + 8` | 切換到工作空間 3        | `GoToDesktop` (openbox 內建) |
-| `Alt + 9` | 切換到工作空間 4        | `GoToDesktop` (openbox 內建) |
-| `Alt + 0` | 切換到工作空間 5        | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 1` | 切換到工作空間 1 (File) | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 2` | 切換到工作空間 2 (Edit) | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 3` | 切換到工作空間 3 (Web)  | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 4` | 切換到工作空間 4 (Term) | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 5` | 切換到工作空間 5 (Misc) | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 6` | 切換到工作空間 1        | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 7` | 切換到工作空間 2        | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 8` | 切換到工作空間 3        | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 9` | 切換到工作空間 4        | `GoToDesktop` (openbox 內建) |
+| `Alt + Ctrl + 0` | 切換到工作空間 5        | `GoToDesktop` (openbox 內建) |
 
 ## 循環切換
 

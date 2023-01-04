@@ -14,13 +14,13 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | -------------------------------------------- | --------------------------------------------------- |
-| `Win + 1` | 視窗(容器)移到工作空間 1 (File) | `SendToDesktop` (openbox builtin) |
-| `Win + 2` | 視窗(容器)移到工作空間 2 (Edit) | `SendToDesktop` (openbox builtin) |
-| `Win + 3` | 視窗(容器)移到工作空間 3 (Web)  | `SendToDesktop` (openbox builtin) |
-| `Win + 4` | 視窗(容器)移到工作空間 4 (Term) | `SendToDesktop` (openbox builtin) |
-| `Win + 5` | 視窗(容器)移到工作空間 5 (Misc) | `SendToDesktop` (openbox builtin) |
-| `Win + 6` | 視窗(容器)移到工作空間 6        | `SendToDesktop` (openbox builtin) |
-| `Win + 7` | 視窗(容器)移到工作空間 7        | `SendToDesktop` (openbox builtin) |
-| `Win + 8` | 視窗(容器)移到工作空間 8        | `SendToDesktop` (openbox builtin) |
-| `Win + 9` | 視窗(容器)移到工作空間 9        | `SendToDesktop` (openbox builtin) |
-| `Win + 0` | 視窗(容器)移到工作空間 10        | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 1` | 視窗(容器)移到工作空間 1 (File) | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 2` | 視窗(容器)移到工作空間 2 (Edit) | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 3` | 視窗(容器)移到工作空間 3 (Web)  | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 4` | 視窗(容器)移到工作空間 4 (Term) | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 5` | 視窗(容器)移到工作空間 5 (Misc) | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 6` | 視窗(容器)移到工作空間 6        | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 7` | 視窗(容器)移到工作空間 7        | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 8` | 視窗(容器)移到工作空間 8        | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 9` | 視窗(容器)移到工作空間 9        | `SendToDesktop` (openbox builtin) |
+| `Alt + Shift + 0` | 視窗(容器)移到工作空間 10        | `SendToDesktop` (openbox builtin) |
