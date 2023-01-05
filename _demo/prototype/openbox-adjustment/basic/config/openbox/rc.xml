@@ -308,6 +308,8 @@
 	</keybind>
 
 
+
+
 	<!-- ## Launch obconf //-->
 	<keybind key="A-S-s">
 		<action name="Execute">
@@ -1843,61 +1845,6 @@ h l
 
 
 
-	<keybind key="W-F1">
-		<action name="Execute">
-			<command>openbox-focus-ctrl the_pcmanfm_qt</command>
-		</action>
-	</keybind>
-
-
-	<keybind key="W-F2">
-		<action name="Execute">
-			<command>openbox-focus-ctrl the_atom</command>
-		</action>
-	</keybind>
-
-	<keybind key="W-F3">
-		<action name="Execute">
-			<command>openbox-focus-ctrl the_firefox</command>
-		</action>
-	</keybind>
-
-	<keybind key="W-F4">
-		<action name="Execute">
-			<command>openbox-focus-ctrl the_sakura</command>
-		</action>
-	</keybind>
-
-
-
-
-	<keybind key="S-F1">
-		<action name="Execute">
-			<command>openbox-focus-ctrl the_thunar</command>
-		</action>
-	</keybind>
-
-
-	<keybind key="S-F2">
-		<action name="Execute">
-			<command>openbox-focus-ctrl the_mousepad</command>
-		</action>
-	</keybind>
-
-	<keybind key="S-F3">
-		<action name="Execute">
-			<command>openbox-focus-ctrl the_firefox</command>
-		</action>
-	</keybind>
-
-	<keybind key="S-F4">
-		<action name="Execute">
-			<command>openbox-focus-ctrl the_xfce4_terminal</command>
-		</action>
-	</keybind>
-
-
-
 	<!-- ## Volume Control //-->
 	<keybind key="A-S-v">
 		<action name="Execute">
@@ -1986,13 +1933,13 @@ h l
 	<!-- ## Wallpaper //-->
 	<keybind key="A-w">
 		<action name="Execute">
-			<command>openbox-wallpaper-ctrl shuf</command>
+			<command>feh --bg-fill --randomize ~/Pictures/Wallpaper</command>
 		</action>
 	</keybind>
 
 	<keybind key="A-C-w">
 		<action name="Execute">
-			<command>openbox-wallpaper-ctrl default</command>
+			<command>feh --bg-fill ~/Pictures/Wallpaper/default.jpg</command>
 		</action>
 	</keybind>
 

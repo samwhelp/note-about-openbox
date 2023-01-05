@@ -14,20 +14,11 @@ openbox_config_install () {
 	echo "##"
 	echo
 
-	echo "mkdir -p $HOME/.config/openbox"
-	mkdir -p "$HOME/.config/openbox"
+	#echo "./config/openbox/bin/maintain-install.sh"
+	#./config/openbox/bin/maintain-install.sh
 
-	echo "install -Dm644 ./config/openbox/rc.xml $HOME/.config/openbox/rc.xml"
-	install -Dm644 "./config/openbox/rc.xml" "$HOME/.config/openbox/rc.xml"
-
-	echo "install -Dm644 ./config/openbox/menu.xml $HOME/.config/openbox/menu.xml"
-	install -Dm644 "./config/openbox/menu.xml" "$HOME/.config/openbox/menu.xml"
-
-	echo "install -Dm755 ./config/openbox/autostart $HOME/.config/openbox/autostart"
-	install -Dm755 "./config/openbox/autostart" "$HOME/.config/openbox/autostart"
-
-	echo "install -Dm644 ./config/openbox/environment $HOME/.config/openbox/environment"
-	install -Dm644 "./config/openbox/environment" "$HOME/.config/openbox/environment"
+	echo "make -C config/openbox install"
+	make -C config/openbox install
 
 	echo
 

@@ -1,7 +1,5 @@
 
 
-
-
 	<!-- ## Launch obconf //-->
 	<keybind key="A-S-s">
 		<action name="Execute">
