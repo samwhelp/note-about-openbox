@@ -7,6 +7,7 @@
 ## 主題
 
 * [入門](#入門)
+* [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
 * [設定](#設定)
 * [專案](#專案)
@@ -19,6 +20,12 @@
 | 議題 |
 | --- |
 | [入門](https://samwhelp.github.io/note-about-openbox/read/start.html) |
+
+
+## 按鍵綁定
+
+* [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
+* [我的按鍵綁定](https://samwhelp.github.io/note-about-openbox/read/config/main/keybind.html)
 
 
 ## 如何
