@@ -2,13 +2,13 @@
 
 	<keybind key="XF86MonBrightnessDown">
 		<action name="Execute">
-			<command>brightnessctl set 10%-</command>
+			<command>brightnessctl set 5%-</command>
 		</action>
 	</keybind>
 
 	<keybind key="XF86MonBrightnessUp">
 		<action name="Execute">
-			<command>brightnessctl set +10%</command>
+			<command>brightnessctl set +5%</command>
 		</action>
 	</keybind>
 
@@ -17,13 +17,26 @@
 
 	<keybind key="A-S-bracketleft">
 		<action name="Execute">
-			<command>brightnessctl set 10%-</command>
+			<command>brightnessctl set 5%-</command>
 		</action>
 	</keybind>
 
 	<keybind key="A-S-bracketright">
 		<action name="Execute">
-			<command>brightnessctl set +10%</command>
+			<command>brightnessctl set +5%</command>
+		</action>
+	</keybind>
+
+
+	<keybind key="A-C-bracketleft">
+		<action name="Execute">
+			<command>brightnessctl set 1%-</command>
+		</action>
+	</keybind>
+
+	<keybind key="A-C-bracketright">
+		<action name="Execute">
+			<command>brightnessctl set +1%</command>
 		</action>
 	</keybind>
 
