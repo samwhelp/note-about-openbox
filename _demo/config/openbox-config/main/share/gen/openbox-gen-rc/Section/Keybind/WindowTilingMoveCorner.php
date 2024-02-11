@@ -43,6 +43,7 @@
 
 
 
+
 	<!-- Version: [Up Down Left Right] //-->
 	<keybind key="A-S-Up">
 		<action name="Unmaximize" />
