@@ -1,7 +1,11 @@
 
+
 # 首頁
 
-* [note-about-openbox](https://samwhelp.github.io/note-about-openbox/) ([GitHub](https://github.com/samwhelp/note-about-openbox))
+| Link | GitHub |
+| ---- | ------ |
+| [Openbox Adjustment](https://samwhelp.github.io/openbox-adjustment/) | [GitHub](https://github.com/samwhelp/openbox-adjustment) |
+| [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
 
 
 
@@ -31,8 +35,8 @@
 
 | 按鍵綁定 |
 | --- |
-| [鍵盤](https://samwhelp.github.io/note-about-bunsenlabs/read/config/keybind.html) |
-| [滑鼠](https://samwhelp.github.io/note-about-bunsenlabs/read/config/mousebind.html) |
+| [鍵盤](https://samwhelp.github.io/note-about-openbox/read/config/keybind.html) |
+| [滑鼠](https://samwhelp.github.io/note-about-openbox/read/config/mousebind.html) |
 | [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start) |
 
 

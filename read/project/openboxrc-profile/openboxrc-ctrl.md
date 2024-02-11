@@ -6,6 +6,7 @@ parent: openboxrc-profile
 grand_parent: 專案
 ---
 
+
 # openboxrc-ctrl
 
 
